@@ -5,35 +5,37 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 * * * *' # Runs every hour
-  workflow_dispatch: # Allows manual trigger
+    - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   fetch-and-save:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Needed for pushing changes
+      contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
-      - name: Create data directory if not exists
-        run: mkdir -p data
-
-      - name: Fetch ETF data and add timestamp
+      - name: Setup directory and fetch data
         run: |
+          mkdir -p data
+          echo "Creating ETF data file..."
           echo "{\"last_updated\":\"$(date -u)\"," > data/etfs.json
           curl -L 'https://script.google.com/macros/s/AKfycbztCTioDVzT8QTzkq7HIQzMBQfHJ9mrXK_hdoXg94bF8rPU0IhYhMnCqKRS9rusGOE9/exec' | jq '.' | sed '1s/^.//' >> data/etfs.json
-          # Debug output
-          echo "Content of etfs.json:"
-          cat data/etfs.json
-          echo "File location:"
-          ls -la data/
 
-      - name: Commit and push if changed
+          echo "File contents:"
+          cat data/etfs.json
+
+          echo "Directory structure:"
+          ls -R data/
+
+      - name: Commit and push
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add data/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update ETF data [skip ci]" && git push)
+          git add data/etfs.json
+          git commit -m "Update ETF data [skip ci]" || echo "No changes to commit"
+          git push
