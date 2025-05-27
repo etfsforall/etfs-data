@@ -1,6 +1,9 @@
 name: Fetch ETFs Data
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 * * * *' # Runs every hour
   workflow_dispatch: # Allows manual trigger
@@ -18,14 +21,15 @@ jobs:
       - name: Create data directory if not exists
         run: mkdir -p data
 
-      - name: Fetch ETF data
+      - name: Fetch ETF data and add timestamp
         run: |
-          curl -L 'https://script.google.com/macros/s/AKfycbztCTioDVzT8QTzkq7HIQzMBQfHJ9mrXK_hdoXg94bF8rPU0IhYhMnCqKRS9rusGOE9/exec' | jq '.' > data/etfslist.json
-
-      - name: Add timestamp
-        run: |
-          echo "{\"last_updated\":\"$(date -u)\"," > data/metadata.json
-          cat data/etfslist.json | sed '1s/^.//' >> data/metadata.json
+          echo "{\"last_updated\":\"$(date -u)\"," > data/etfs.json
+          curl -L 'https://script.google.com/macros/s/AKfycbztCTioDVzT8QTzkq7HIQzMBQfHJ9mrXK_hdoXg94bF8rPU0IhYhMnCqKRS9rusGOE9/exec' | jq '.' | sed '1s/^.//' >> data/etfs.json
+          # Debug output
+          echo "Content of etfs.json:"
+          cat data/etfs.json
+          echo "File location:"
+          ls -la data/
 
       - name: Commit and push if changed
         run: |
