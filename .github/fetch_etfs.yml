@@ -1,6 +1,9 @@
 name: Fetch ETF Data
 
 on:
+  push:
+    branches:
+      - main # or your default branch name
   schedule:
     - cron: '0 * * * *' # Runs every hour
   workflow_dispatch: # Allows manual trigger
