@@ -22,6 +22,11 @@ jobs:
         run: |
           echo "{\"last_updated\":\"$(date -u)\"," > data/etfs.json
           curl -L 'https://script.google.com/macros/s/AKfycbztCTioDVzT8QTzkq7HIQzMBQfHJ9mrXK_hdoXg94bF8rPU0IhYhMnCqKRS9rusGOE9/exec' | jq '.' | sed '1s/^.//' >> data/etfs.json
+          # Add debug output
+          echo "Content of etfs.json:"
+          cat data/etfs.json
+          echo "File location:"
+          ls -la data/
 
       - name: Commit and push if changed
         run: |
