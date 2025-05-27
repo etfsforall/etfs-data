@@ -1,0 +1,35 @@
+name: Fetch ETF Data
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  fetch-and-save:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed for pushing changes
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create data directory if not exists
+        run: mkdir -p data
+
+      - name: Fetch ETF data
+        run: |
+          curl -L 'https://script.google.com/macros/s/AKfycbztCTioDVzT8QTzkq7HIQzMBQfHJ9mrXK_hdoXg94bF8rPU0IhYhMnCqKRS9rusGOE9/exec' | jq '.' > data/etfslist.json
+
+      - name: Add timestamp
+        run: |
+          echo "{\"last_updated\":\"$(date -u)\"," > data/metadata.json
+          cat data/etfslist.json | sed '1s/^.//' >> data/metadata.json
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add data/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update ETF data [skip ci]" && git push)
