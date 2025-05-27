@@ -23,8 +23,10 @@ jobs:
         run: |
           mkdir -p data
           echo "Creating ETF data file..."
-          echo "{\"last_updated\":\"$(date -u)\"," > data/etfs.json
-          curl -L 'https://script.google.com/macros/s/AKfycbztCTioDVzT8QTzkq7HIQzMBQfHJ9mrXK_hdoXg94bF8rPU0IhYhMnCqKRS9rusGOE9/exec' | jq '.' | sed '1s/^.//' >> data/etfs.json
+          echo "{" > data/etfs.json
+          echo "  \"last_updated\": \"$(date -u)\"," >> data/etfs.json
+          echo "  \"data\": " >> data/etfs.json
+          curl -L 'https://script.google.com/macros/s/AKfycbztCTioDVzT8QTzkq7HIQzMBQfHJ9mrXK_hdoXg94bF8rPU0IhYhMnCqKRS9rusGOE9/exec' | jq '.' >> data/etfs.json
 
           echo "File contents:"
           cat data/etfs.json
