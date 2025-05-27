@@ -1,4 +1,4 @@
-name: Fetch ETF Data
+name: Fetch ETFs Data
 
 on:
   schedule:
