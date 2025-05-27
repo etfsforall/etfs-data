@@ -1,541 +1,541 @@
 {
-  "last_updated": "Tue May 27 13:24:15 UTC 2025",
-  "data": 
-[
-  [
-    "ETF_NSE_Code",
-    "ETF_NAME",
-    "CMP",
-    "WK_52",
-    "CMP-52WKLow",
-    "PERCENT_CHANGE"
-  ],
-  [
-    "NSE:MOM30IETF",
-    "ICICI Prudential Nifty 200 Momentum 30 ETF",
-    30.99,
-    25,
-    5.989999999999998,
-    23.959999999999994
-  ],
-  [
-    "NSE:NIFTYQLITY",
-    "Aditya Birla Sun Life Nifty 200 Quality 30 ETF",
-    21.37,
-    18.3,
-    3.0700000000000003,
-    16.775956284153004
-  ],
-  [
-    "NSE:VAL30IETF",
-    "Nifty200 Value 30 Index",
-    12.91,
-    10.93,
-    1.9800000000000004,
-    18.1152790484904
-  ],
-  [
-    "NSE:ABSLPSE",
-    "Aditya Birla Sun Life Nifty PSE ETF",
-    10.16,
-    8,
-    2.16,
-    27
-  ],
-  [
-    "NSE:UTISXN50",
-    "BSE Sensex Next 50",
-    88.58,
-    66.72,
-    21.86,
-    32.76378896882494
-  ],
-  [
-    "NSE:CPSEETF",
-    "CPSE ETF",
-    92.51,
-    74.9,
-    17.61,
-    23.51134846461949
-  ],
-  [
-    "NSE:GOLDBEES",
-    "Gold",
-    79.54,
-    57.85,
-    21.690000000000005,
-    37.493517718236824
-  ],
-  [
-    "NSE:HNGSNGBEES",
-    "Hang Seng Index",
-    387,
-    269.02,
-    117.98000000000002,
-    43.85547542933612
-  ],
-  [
-    "NSE:MAHKTECH",
-    "Hang Seng TECH Total Return Index",
-    22.85,
-    12.9,
-    9.950000000000001,
-    77.13178294573645
-  ],
-  [
-    "NSE:HDFCGROWTH",
-    "HDFC NIFTY Growth Sectors 15 ETF",
-    117.72,
-    103.11,
-    14.61,
-    14.169333721268549
-  ],
-  [
-    "NSE:LOWVOLIETF",
-    "Nifty 100 Low Volatility 30 Index",
-    21.63,
-    19.03,
-    2.599999999999998,
-    13.662637940094575
-  ],
-  [
-    "NSE:HDFCQUAL",
-    "HDFC NIFTY100 Quality 30 ETF",
-    57.55,
-    49.53,
-    8.019999999999996,
-    16.192206743387835
-  ],
-  [
-    "NSE:BSE500IETF",
-    "S&P BSE 500 index",
-    38.43,
-    33,
-    5.43,
-    16.454545454545453
-  ],
-  [
-    "NSE:COMMOIETF",
-    "ICICI Prudential Nifty Commodities ETF",
-    88.9,
-    75.61,
-    13.290000000000006,
-    17.577040074064286
-  ],
-  [
-    "NSE:FINIETF",
-    "ICICI Prudential Nifty Financial Services Ex-Bank ETF",
-    29.51,
-    21.76,
-    7.75,
-    35.615808823529406
-  ],
-  [
-    "NSE:INFRAIETF",
-    "ICICI Prudential Nifty Infrastructure ETF",
-    92.2,
-    77.65,
-    14.549999999999997,
-    18.73792659368963
-  ],
-  [
-    "NSE:MNC",
-    "Kotak Nifty MNC ETF",
-    28.66,
-    24.52,
-    4.140000000000001,
-    16.884176182707996
-  ],
-  [
-    "NSE:ALPHAETF",
-    "Mirae Asset Nifty 200 Alpha 30 ETF",
-    24.22,
-    19.61,
-    4.609999999999999,
-    23.508414074451807
-  ],
-  [
-    "NSE:MIDSMALL",
-    "Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF",
-    49.16,
-    40,
-    9.159999999999997,
-    22.89999999999999
-  ],
-  [
-    "NSE:SMALLCAP",
-    "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF",
-    45.25,
-    37.45,
-    7.799999999999997,
-    20.827770360480635
-  ],
-  [
-    "NSE:MONIFTY500",
-    "Motilal Oswal Nifty 500 ETF",
-    23.09,
-    19.5,
-    3.59,
-    18.41025641025641
-  ],
-  [
-    "NSE:MOREALTY",
-    "Motilal Oswal Nifty Realty ETF",
-    94.25,
-    77,
-    17.25,
-    22.4025974025974
-  ],
-  [
-    "NSE:MOSMALL250",
-    "Motilal Oswal Nifty Smallcap 250 ETF",
-    16.7,
-    13.22,
-    3.4799999999999986,
-    26.32375189107412
-  ],
-  [
-    "NSE:MOVALUE",
-    "Motilal Oswal S&P BSE Enhanced Value ETF",
-    101.8,
-    85.91,
-    15.89,
-    18.496100570364334
-  ],
-  [
-    "NSE:MONQ50",
-    "Nasdaq Q-50 Total Return Index",
-    73.3,
-    57.51,
-    15.79,
-    27.456094592244828
-  ],
-  [
-    "NSE:MON100",
-    "Nasdaq100",
-    176.98,
-    142.11,
-    34.869999999999976,
-    24.537330237140225
-  ],
-  [
-    "NSE:TOP100CASE",
-    "Zerodha Nifty 100 ETF",
-    10.5,
-    8.01,
-    2.49,
-    31.086142322097384
-  ],
-  [
-    "NSE:NIFTYBEES",
-    "Nifty 50",
-    278.3,
-    231.3,
-    47,
-    20.3199308257674
-  ],
-  [
-    "NSE:MOMENTUM50",
-    "Nifty 500 Momentum 50 Total Return Index",
-    52,
-    42.4,
-    9.600000000000001,
-    22.641509433962266
-  ],
-  [
-    "NSE:ALPHA",
-    "NIFTY Alpha 50 Index",
-    48.3,
-    39,
-    9.299999999999997,
-    23.84615384615384
-  ],
-  [
-    "NSE:ALPL30IETF",
-    "Nifty Alpha Low-Volatility 30 Index",
-    27.35,
-    24,
-    3.3500000000000014,
-    13.958333333333337
-  ],
-  [
-    "NSE:AUTOIETF",
-    "Nifty Auto Index",
-    24.09,
-    19.72,
-    4.370000000000001,
-    22.160243407707917
-  ],
-  [
-    "NSE:BANKBEES",
-    "Nifty Bank",
-    567.95,
-    477.77,
-    90.18000000000006,
-    18.875190991481272
-  ],
-  [
-    "NSE:DIVOPPBEES",
-    "Nifty Dividend Opportunities 50 TRI",
-    78.34,
-    68.3,
-    10.040000000000006,
-    14.699853587115676
-  ],
-  [
-    "NSE:EVINDIA",
-    "Nifty EV and New Age Automotive Total Return Index",
-    29.44,
-    23.83,
-    5.610000000000003,
-    23.54175409148134
-  ],
-  [
-    "NSE:BFSI",
-    "Nifty Financial Services Index",
-    27.15,
-    20.92,
-    6.229999999999997,
-    29.78011472275333
-  ],
-  [
-    "NSE:FMCGIETF",
-    "Nifty FMCG Index",
-    59.84,
-    53.12,
-    6.720000000000006,
-    12.650602409638566
-  ],
-  [
-    "NSE:HEALTHY",
-    "Nifty Healthcare TRI",
-    14.38,
-    11.7,
-    2.6800000000000015,
-    22.90598290598292
-  ],
-  [
-    "NSE:MOHEALTH",
-    "Motilal Oswal S&P BSE Healthcare ETF",
-    43.34,
-    34.2,
-    9.14,
-    26.72514619883041
-  ],
-  [
-    "NSE:CONSUMBEES",
-    "Nifty India Consumption TRI",
-    127.27,
-    110.86,
-    16.409999999999997,
-    14.802453545011723
-  ],
-  [
-    "NSE:MODEFENCE",
-    "Nifty India Defence Total Return Index",
-    95.38,
-    55.21,
-    40.169999999999995,
-    72.75855823220431
-  ],
-  [
-    "NSE:TNIDETF",
-    "Nifty India Digital Index",
-    89.88,
-    74.12,
-    15.759999999999991,
-    21.26281705342686
-  ],
-  [
-    "NSE:MAKEINDIA",
-    "Nifty India Manufacturing Total Return Index",
-    144.15,
-    119.5,
-    24.650000000000006,
-    20.62761506276151
-  ],
-  [
-    "NSE:ITBEES",
-    "Nifty IT TRI",
-    40.63,
-    33.63,
-    7,
-    20.814748736247395
-  ],
-  [
-    "NSE:METALIETF",
-    "Nifty Metal Index",
-    9.29,
-    7.35,
-    1.9399999999999995,
-    26.394557823129244
-  ],
-  [
-    "NSE:MOM100",
-    "Nifty Midcap 100",
-    61.25,
-    50.3,
-    10.950000000000003,
-    21.769383697813126
-  ],
-  [
-    "NSE:MIDCAPETF",
-    "Mirae Asset Mutual Fund - Mirae Asset Nifty Midcap 150 ETF",
-    21.37,
-    16,
-    5.370000000000001,
-    33.56250000000001
-  ],
-  [
-    "NSE:MIDQ50ADD",
-    "Nifty Midcap 150 Quality 50 Index",
-    247.47,
-    191.97,
-    55.5,
-    28.91076730739178
-  ],
-  [
-    "NSE:MIDCAP",
-    "Nifty Midcap 50 Index",
-    162.76,
-    134.98,
-    27.78,
-    20.58082678915395
-  ],
-  [
-    "NSE:NEXT50IETF",
-    "Nifty Next 50",
-    70.29,
-    58.7,
-    11.590000000000003,
-    19.744463373083484
-  ],
-  [
-    "NSE:OILIETF",
-    "Nifty Oil & Gas Index",
-    11.57,
-    9.42,
-    2.1500000000000004,
-    22.823779193205947
-  ],
-  [
-    "NSE:PHARMABEES",
-    "Nifty Pharma TRI",
-    22,
-    18.83,
-    3.1700000000000017,
-    16.834838024429114
-  ],
-  [
-    "NSE:PVTBANIETF",
-    "Nifty Private Bank Index",
-    27.55,
-    22.23,
-    5.32,
-    23.931623931623932
-  ],
-  [
-    "NSE:PSUBNKBEES",
-    "Nifty PSU Bank",
-    75,
-    61.54,
-    13.46,
-    21.871953201169973
-  ],
-  [
-    "NSE:TOP10ADD",
-    "Nifty Top 10 Equal Weight Index",
-    97.85,
-    86.5,
-    11.349999999999994,
-    13.12138728323699
-  ],
-  [
-    "NSE:ESG",
-    "NIFTY100 ESG SECTOR LEADERS",
-    42.07,
-    35.7,
-    6.369999999999997,
-    17.843137254901954
-  ],
-  [
-    "NSE:NV20IETF",
-    "Nifty50 Value 20",
-    14.68,
-    11.2,
-    3.4800000000000004,
-    31.07142857142858
-  ],
-  [
-    "NSE:MULTICAP",
-    "Nifty500 Multicap 50:25:25 Index",
-    15.84,
-    13.43,
-    2.41,
-    17.944899478778854
-  ],
-  [
-    "NSE:EMULTIMQ",
-    "Nifty500 Multicap Momentum Quality 50 Total Return Index",
-    42.43,
-    34.71,
-    7.719999999999999,
-    22.241428983002013
-  ],
-  [
-    "NSE:MAFANG",
-    "NYSE FANG+ Total Return Index",
-    136.22,
-    89.25,
-    46.97,
-    52.627450980392155
-  ],
-  [
-    "NSE:MASPTOP50",
-    "S&P 500 Top 50 Total Return Index",
-    54.79,
-    36.48,
-    18.310000000000002,
-    50.19188596491229
-  ],
-  [
-    "NSE:ICICIB22",
-    "S&P BSE BHARAT 22 index",
-    109.8,
-    93.02,
-    16.78,
-    18.039131369597936
-  ],
-  [
-    "NSE:MIDSELIETF",
-    "S&P BSE Midcap Select Index",
-    17.25,
-    13.86,
-    3.3900000000000006,
-    24.458874458874465
-  ],
-  [
-    "NSE:SILVERBEES",
-    "Domestic price of Silver- based on LBMA Silver daily spot fixing price",
-    93.91,
-    76.7,
-    17.209999999999994,
-    22.43807040417209
-  ],
-  [
-    "NSE:SENSEXIETF\n",
-    "SENSEX",
-    929.17,
-    720,
-    209.16999999999996,
-    29.051388888888884
-  ],
-  [
-    "NSE:SHARIABEES",
-    "Shariah",
-    507.97,
-    439.91,
-    68.06,
-    15.471346411766042
+  "last_updated": "Tue May 27 13:29:23 UTC 2025",
+  "data": [
+    [
+      "ETF_NSE_Code",
+      "ETF_NAME",
+      "CMP",
+      "WK_52",
+      "CMP-52WKLow",
+      "PERCENT_CHANGE"
+    ],
+    [
+      "NSE:MOM30IETF",
+      "ICICI Prudential Nifty 200 Momentum 30 ETF",
+      30.99,
+      25,
+      5.989999999999998,
+      23.959999999999994
+    ],
+    [
+      "NSE:NIFTYQLITY",
+      "Aditya Birla Sun Life Nifty 200 Quality 30 ETF",
+      21.37,
+      18.3,
+      3.0700000000000003,
+      16.775956284153004
+    ],
+    [
+      "NSE:VAL30IETF",
+      "Nifty200 Value 30 Index",
+      12.91,
+      10.93,
+      1.9800000000000004,
+      18.1152790484904
+    ],
+    [
+      "NSE:ABSLPSE",
+      "Aditya Birla Sun Life Nifty PSE ETF",
+      10.16,
+      8,
+      2.16,
+      27
+    ],
+    [
+      "NSE:UTISXN50",
+      "BSE Sensex Next 50",
+      88.58,
+      66.72,
+      21.86,
+      32.76378896882494
+    ],
+    [
+      "NSE:CPSEETF",
+      "CPSE ETF",
+      92.51,
+      74.9,
+      17.61,
+      23.51134846461949
+    ],
+    [
+      "NSE:GOLDBEES",
+      "Gold",
+      79.54,
+      57.85,
+      21.690000000000005,
+      37.493517718236824
+    ],
+    [
+      "NSE:HNGSNGBEES",
+      "Hang Seng Index",
+      387,
+      269.02,
+      117.98000000000002,
+      43.85547542933612
+    ],
+    [
+      "NSE:MAHKTECH",
+      "Hang Seng TECH Total Return Index",
+      22.85,
+      12.9,
+      9.950000000000001,
+      77.13178294573645
+    ],
+    [
+      "NSE:HDFCGROWTH",
+      "HDFC NIFTY Growth Sectors 15 ETF",
+      117.72,
+      103.11,
+      14.61,
+      14.169333721268549
+    ],
+    [
+      "NSE:LOWVOLIETF",
+      "Nifty 100 Low Volatility 30 Index",
+      21.63,
+      19.03,
+      2.599999999999998,
+      13.662637940094575
+    ],
+    [
+      "NSE:HDFCQUAL",
+      "HDFC NIFTY100 Quality 30 ETF",
+      57.55,
+      49.53,
+      8.019999999999996,
+      16.192206743387835
+    ],
+    [
+      "NSE:BSE500IETF",
+      "S&P BSE 500 index",
+      38.43,
+      33,
+      5.43,
+      16.454545454545453
+    ],
+    [
+      "NSE:COMMOIETF",
+      "ICICI Prudential Nifty Commodities ETF",
+      88.9,
+      75.61,
+      13.290000000000006,
+      17.577040074064286
+    ],
+    [
+      "NSE:FINIETF",
+      "ICICI Prudential Nifty Financial Services Ex-Bank ETF",
+      29.51,
+      21.76,
+      7.75,
+      35.615808823529406
+    ],
+    [
+      "NSE:INFRAIETF",
+      "ICICI Prudential Nifty Infrastructure ETF",
+      92.2,
+      77.65,
+      14.549999999999997,
+      18.73792659368963
+    ],
+    [
+      "NSE:MNC",
+      "Kotak Nifty MNC ETF",
+      28.66,
+      24.52,
+      4.140000000000001,
+      16.884176182707996
+    ],
+    [
+      "NSE:ALPHAETF",
+      "Mirae Asset Nifty 200 Alpha 30 ETF",
+      24.22,
+      19.61,
+      4.609999999999999,
+      23.508414074451807
+    ],
+    [
+      "NSE:MIDSMALL",
+      "Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF",
+      49.16,
+      40,
+      9.159999999999997,
+      22.89999999999999
+    ],
+    [
+      "NSE:SMALLCAP",
+      "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF",
+      45.25,
+      37.45,
+      7.799999999999997,
+      20.827770360480635
+    ],
+    [
+      "NSE:MONIFTY500",
+      "Motilal Oswal Nifty 500 ETF",
+      23.09,
+      19.5,
+      3.59,
+      18.41025641025641
+    ],
+    [
+      "NSE:MOREALTY",
+      "Motilal Oswal Nifty Realty ETF",
+      94.25,
+      77,
+      17.25,
+      22.4025974025974
+    ],
+    [
+      "NSE:MOSMALL250",
+      "Motilal Oswal Nifty Smallcap 250 ETF",
+      16.7,
+      13.22,
+      3.4799999999999986,
+      26.32375189107412
+    ],
+    [
+      "NSE:MOVALUE",
+      "Motilal Oswal S&P BSE Enhanced Value ETF",
+      101.8,
+      85.91,
+      15.89,
+      18.496100570364334
+    ],
+    [
+      "NSE:MONQ50",
+      "Nasdaq Q-50 Total Return Index",
+      73.3,
+      57.51,
+      15.79,
+      27.456094592244828
+    ],
+    [
+      "NSE:MON100",
+      "Nasdaq100",
+      176.98,
+      142.11,
+      34.869999999999976,
+      24.537330237140225
+    ],
+    [
+      "NSE:TOP100CASE",
+      "Zerodha Nifty 100 ETF",
+      10.5,
+      8.01,
+      2.49,
+      31.086142322097384
+    ],
+    [
+      "NSE:NIFTYBEES",
+      "Nifty 50",
+      278.3,
+      231.3,
+      47,
+      20.3199308257674
+    ],
+    [
+      "NSE:MOMENTUM50",
+      "Nifty 500 Momentum 50 Total Return Index",
+      52,
+      42.4,
+      9.600000000000001,
+      22.641509433962266
+    ],
+    [
+      "NSE:ALPHA",
+      "NIFTY Alpha 50 Index",
+      48.3,
+      39,
+      9.299999999999997,
+      23.84615384615384
+    ],
+    [
+      "NSE:ALPL30IETF",
+      "Nifty Alpha Low-Volatility 30 Index",
+      27.35,
+      24,
+      3.3500000000000014,
+      13.958333333333337
+    ],
+    [
+      "NSE:AUTOIETF",
+      "Nifty Auto Index",
+      24.09,
+      19.72,
+      4.370000000000001,
+      22.160243407707917
+    ],
+    [
+      "NSE:BANKBEES",
+      "Nifty Bank",
+      567.95,
+      477.77,
+      90.18000000000006,
+      18.875190991481272
+    ],
+    [
+      "NSE:DIVOPPBEES",
+      "Nifty Dividend Opportunities 50 TRI",
+      78.34,
+      68.3,
+      10.040000000000006,
+      14.699853587115676
+    ],
+    [
+      "NSE:EVINDIA",
+      "Nifty EV and New Age Automotive Total Return Index",
+      29.44,
+      23.83,
+      5.610000000000003,
+      23.54175409148134
+    ],
+    [
+      "NSE:BFSI",
+      "Nifty Financial Services Index",
+      27.15,
+      20.92,
+      6.229999999999997,
+      29.78011472275333
+    ],
+    [
+      "NSE:FMCGIETF",
+      "Nifty FMCG Index",
+      59.84,
+      53.12,
+      6.720000000000006,
+      12.650602409638566
+    ],
+    [
+      "NSE:HEALTHY",
+      "Nifty Healthcare TRI",
+      14.38,
+      11.7,
+      2.6800000000000015,
+      22.90598290598292
+    ],
+    [
+      "NSE:MOHEALTH",
+      "Motilal Oswal S&P BSE Healthcare ETF",
+      43.34,
+      34.2,
+      9.14,
+      26.72514619883041
+    ],
+    [
+      "NSE:CONSUMBEES",
+      "Nifty India Consumption TRI",
+      127.27,
+      110.86,
+      16.409999999999997,
+      14.802453545011723
+    ],
+    [
+      "NSE:MODEFENCE",
+      "Nifty India Defence Total Return Index",
+      95.38,
+      55.21,
+      40.169999999999995,
+      72.75855823220431
+    ],
+    [
+      "NSE:TNIDETF",
+      "Nifty India Digital Index",
+      89.88,
+      74.12,
+      15.759999999999991,
+      21.26281705342686
+    ],
+    [
+      "NSE:MAKEINDIA",
+      "Nifty India Manufacturing Total Return Index",
+      144.15,
+      119.5,
+      24.650000000000006,
+      20.62761506276151
+    ],
+    [
+      "NSE:ITBEES",
+      "Nifty IT TRI",
+      40.63,
+      33.63,
+      7,
+      20.814748736247395
+    ],
+    [
+      "NSE:METALIETF",
+      "Nifty Metal Index",
+      9.29,
+      7.35,
+      1.9399999999999995,
+      26.394557823129244
+    ],
+    [
+      "NSE:MOM100",
+      "Nifty Midcap 100",
+      61.25,
+      50.3,
+      10.950000000000003,
+      21.769383697813126
+    ],
+    [
+      "NSE:MIDCAPETF",
+      "Mirae Asset Mutual Fund - Mirae Asset Nifty Midcap 150 ETF",
+      21.37,
+      16,
+      5.370000000000001,
+      33.56250000000001
+    ],
+    [
+      "NSE:MIDQ50ADD",
+      "Nifty Midcap 150 Quality 50 Index",
+      247.47,
+      191.97,
+      55.5,
+      28.91076730739178
+    ],
+    [
+      "NSE:MIDCAP",
+      "Nifty Midcap 50 Index",
+      162.76,
+      134.98,
+      27.78,
+      20.58082678915395
+    ],
+    [
+      "NSE:NEXT50IETF",
+      "Nifty Next 50",
+      70.29,
+      58.7,
+      11.590000000000003,
+      19.744463373083484
+    ],
+    [
+      "NSE:OILIETF",
+      "Nifty Oil & Gas Index",
+      11.57,
+      9.42,
+      2.1500000000000004,
+      22.823779193205947
+    ],
+    [
+      "NSE:PHARMABEES",
+      "Nifty Pharma TRI",
+      22,
+      18.83,
+      3.1700000000000017,
+      16.834838024429114
+    ],
+    [
+      "NSE:PVTBANIETF",
+      "Nifty Private Bank Index",
+      27.55,
+      22.23,
+      5.32,
+      23.931623931623932
+    ],
+    [
+      "NSE:PSUBNKBEES",
+      "Nifty PSU Bank",
+      75,
+      61.54,
+      13.46,
+      21.871953201169973
+    ],
+    [
+      "NSE:TOP10ADD",
+      "Nifty Top 10 Equal Weight Index",
+      97.85,
+      86.5,
+      11.349999999999994,
+      13.12138728323699
+    ],
+    [
+      "NSE:ESG",
+      "NIFTY100 ESG SECTOR LEADERS",
+      42.07,
+      35.7,
+      6.369999999999997,
+      17.843137254901954
+    ],
+    [
+      "NSE:NV20IETF",
+      "Nifty50 Value 20",
+      14.68,
+      11.2,
+      3.4800000000000004,
+      31.07142857142858
+    ],
+    [
+      "NSE:MULTICAP",
+      "Nifty500 Multicap 50:25:25 Index",
+      15.84,
+      13.43,
+      2.41,
+      17.944899478778854
+    ],
+    [
+      "NSE:EMULTIMQ",
+      "Nifty500 Multicap Momentum Quality 50 Total Return Index",
+      42.43,
+      34.71,
+      7.719999999999999,
+      22.241428983002013
+    ],
+    [
+      "NSE:MAFANG",
+      "NYSE FANG+ Total Return Index",
+      136.22,
+      89.25,
+      46.97,
+      52.627450980392155
+    ],
+    [
+      "NSE:MASPTOP50",
+      "S&P 500 Top 50 Total Return Index",
+      54.79,
+      36.48,
+      18.310000000000002,
+      50.19188596491229
+    ],
+    [
+      "NSE:ICICIB22",
+      "S&P BSE BHARAT 22 index",
+      109.8,
+      93.02,
+      16.78,
+      18.039131369597936
+    ],
+    [
+      "NSE:MIDSELIETF",
+      "S&P BSE Midcap Select Index",
+      17.25,
+      13.86,
+      3.3900000000000006,
+      24.458874458874465
+    ],
+    [
+      "NSE:SILVERBEES",
+      "Domestic price of Silver- based on LBMA Silver daily spot fixing price",
+      93.91,
+      76.7,
+      17.209999999999994,
+      22.43807040417209
+    ],
+    [
+      "NSE:SENSEXIETF\n",
+      "SENSEX",
+      929.17,
+      720,
+      209.16999999999996,
+      29.051388888888884
+    ],
+    [
+      "NSE:SHARIABEES",
+      "Shariah",
+      507.97,
+      439.91,
+      68.06,
+      15.471346411766042
+    ]
   ]
-]
+}
