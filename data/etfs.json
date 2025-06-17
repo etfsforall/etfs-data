@@ -1,5 +1,5 @@
 {
-  "last_updated": "Tue Jun 17 10:12:10 UTC 2025",
+  "last_updated": "Tue Jun 17 10:43:58 UTC 2025",
   "data": [
     [
       "ETF_NSE_Code",
@@ -164,10 +164,10 @@
     [
       "NSE:SMALLCAP",
       "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF",
-      47.26,
+      47.27,
       37.45,
-      9.809999999999995,
-      26.19492656875833
+      9.82,
+      26.221628838451267
     ],
     [
       "NSE:MONIFTY500",
