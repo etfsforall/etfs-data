@@ -1,5 +1,5 @@
 {
-  "last_updated": "Fri Aug  1 10:13:05 UTC 2025",
+  "last_updated": "Fri Aug  1 10:46:40 UTC 2025",
   "data": [
     [
       "ETF_NSE_Code",
@@ -412,10 +412,10 @@
     [
       "NSE:OILIETF",
       "Nifty Oil & Gas Index",
-      11.23,
+      11.22,
       9.42,
-      1.8100000000000005,
-      19.214437367303617
+      1.8000000000000007,
+      19.108280254777075
     ],
     [
       "NSE:PHARMABEES",
