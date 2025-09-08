@@ -1,5 +1,5 @@
 {
-  "last_updated": "Mon Sep  8 10:12:01 UTC 2025",
+  "last_updated": "Mon Sep  8 10:41:33 UTC 2025",
   "data": [
     [
       "ETF_NSE_Code",
@@ -228,10 +228,10 @@
     [
       "NSE:NIFTYBEES",
       "Nifty 50",
-      280.23,
+      280.24,
       231.3,
-      48.93000000000001,
-      21.154345006485087
+      48.94,
+      21.15866839602248
     ],
     [
       "NSE:MOMENTUM50",
