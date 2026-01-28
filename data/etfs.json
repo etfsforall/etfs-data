@@ -1,5 +1,5 @@
 {
-  "last_updated": "Wed Jan 28 10:18:18 UTC 2026",
+  "last_updated": "Wed Jan 28 10:52:07 UTC 2026",
   "data": [
     [
       "ETF_NSE_Code",
@@ -164,10 +164,10 @@
     [
       "NSE:SMALLCAP",
       "Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF",
-      41.67,
+      41.53,
       37.45,
-      4.219999999999999,
-      11.268357810413882
+      4.079999999999998,
+      10.894526034712944
     ],
     [
       "NSE:MONIFTY500",
@@ -300,10 +300,10 @@
     [
       "NSE:FMCGIETF",
       "Nifty FMCG Index",
-      54.66,
+      54.28,
       53,
-      1.6599999999999966,
-      3.1320754716981067
+      1.2800000000000011,
+      2.4150943396226436
     ],
     [
       "NSE:HEALTHY",
