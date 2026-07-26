@@ -4,4 +4,4 @@
 
 # Data directory and files
 data/*
-!data/etfs.json
+data/etfs.json

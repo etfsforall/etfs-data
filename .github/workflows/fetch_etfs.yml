@@ -1,16 +1,19 @@
 name: Fetch ETFs Data
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: '30,0 3-10 * * 1-5'
   workflow_dispatch:
 
+# Serialize runs so two jobs never race on the same push.
+concurrency:
+  group: fetch-etfs
+  cancel-in-progress: false
+
 jobs:
   fetch-and-save:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       contents: write
 
@@ -19,29 +22,53 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Setup directory and fetch data
+      - name: Fetch data
+        env:
+          ETF_ENDPOINT: ${{ secrets.ETF_ENDPOINT_URL }}
         run: |
+          set -euo pipefail
+
+          if [ -z "${ETF_ENDPOINT:-}" ]; then
+            echo "::error::ETF_ENDPOINT_URL secret is not set"
+            exit 1
+          fi
+
           mkdir -p data
-          echo "Creating ETF data file..."
-          echo "{" > data/etfs.json
-          echo "  \"last_updated\": \"$(date -u)\"," >> data/etfs.json
-          echo "  \"data\": " >> data/etfs.json
-          curl -L 'https://script.google.com/macros/s/AKfycbztCTioDVzT8QTzkq7HIQzMBQfHJ9mrXK_hdoXg94bF8rPU0IhYhMnCqKRS9rusGOE9/exec' >> data/etfs.json
-          echo "}" >> data/etfs.json
 
-          # Validate and format JSON
-          cat data/etfs.json | jq '.' > temp.json && mv temp.json data/etfs.json
+          # --fail turns HTTP errors into a non-zero exit instead of writing
+          # the error page into the payload.
+          curl -fsSL --retry 3 --retry-delay 5 --max-time 60 \
+            "${ETF_ENDPOINT}" -o raw.json
 
-          echo "File contents:"
-          cat data/etfs.json
+          # --slurpfile rejects anything that isn't valid JSON, so a bad
+          # response fails here rather than getting committed.
+          jq -n \
+            --arg ts "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            --slurpfile d raw.json \
+            '{last_updated: $ts, data: $d[0]}' > data/etfs.json
 
-          echo "Directory structure:"
-          ls -R data/
+          rm raw.json
+
+          echo "Rows fetched: $(jq '.data | length' data/etfs.json)"
 
       - name: Commit and push
         run: |
+          set -euo pipefail
+
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add data/etfs.json
-          git commit -m "Update ETF data [skip ci]" || echo "No changes to commit"
-          git push
+
+          # -f because data/etfs.json is listed in .gitignore.
+          git add -f data/etfs.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Update ETF data [skip ci]"
+
+          git push || {
+            git pull --rebase
+            git push
+          }
