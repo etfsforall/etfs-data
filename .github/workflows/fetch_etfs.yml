@@ -28,10 +28,20 @@ jobs:
         run: |
           set -euo pipefail
 
-          if [ -z "${ETF_ENDPOINT:-}" ]; then
+          # GitHub's secret editor can keep a trailing newline on the pasted
+          # value. A URL contains no whitespace, so strip all of it.
+          ETF_ENDPOINT="$(printf '%s' "${ETF_ENDPOINT:-}" | tr -d '[:space:]')"
+
+          if [ -z "${ETF_ENDPOINT}" ]; then
             echo "::error::ETF_ENDPOINT_URL secret is not set"
             exit 1
           fi
+
+          case "${ETF_ENDPOINT}" in
+            https://*) ;;
+            *) echo "::error::ETF_ENDPOINT_URL does not start with https://"
+               exit 1 ;;
+          esac
 
           mkdir -p data
 
