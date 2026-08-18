@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-17T15:57:07Z",
+  "last_updated": "2026-08-18T03:23:47Z",
   "data": {
-    "last_updated": "2026-08-17T15:57:07.238Z",
+    "last_updated": "2026-08-18T03:23:47.348Z",
     "data": [
       {
         "ETF_NSE_Code": "NSE:MOM30IETF",
@@ -18,9 +18,9 @@
         "R2": 38.91,
         "R3": 46.63,
         "Chart_Link": "https://www.tradingview.com/x/mjfVmhGm/",
-        "Daily average volume in last 90 days": 1414226.603174603,
+        "Daily average volume in last 90 days": 1430542.677419355,
         "Daily average volume in last 365 days": 1643105.0203252032,
-        "RSI": 58.51
+        "RSI": 57.53
       },
       {
         "ETF_NSE_Code": "NSE:NIFTYQLITY",
@@ -37,9 +37,9 @@
         "R2": 24.98,
         "R3": 27.66,
         "Chart_Link": "https://www.tradingview.com/x/i6GhuJp3/",
-        "Daily average volume in last 90 days": 44687.730158730155,
+        "Daily average volume in last 90 days": 45231.6935483871,
         "Daily average volume in last 365 days": 75334.83739837399,
-        "RSI": 64.64
+        "RSI": 68.32
       },
       {
         "ETF_NSE_Code": "NSE:VAL30IETF",
@@ -56,9 +56,9 @@
         "R2": 17.62,
         "R3": 18.98,
         "Chart_Link": "https://www.tradingview.com/x/BYsljU9x/",
-        "Daily average volume in last 90 days": 380994.4126984127,
+        "Daily average volume in last 90 days": 381623.5483870968,
         "Daily average volume in last 365 days": 394820.162601626,
-        "RSI": 47.41
+        "RSI": 50.83
       },
       {
         "ETF_NSE_Code": "NSE:ABSLPSE",
@@ -75,9 +75,9 @@
         "R2": 11.14,
         "R3": 11.68,
         "Chart_Link": "https://www.tradingview.com/x/c78qxOeG/",
-        "Daily average volume in last 90 days": 200526.07936507938,
+        "Daily average volume in last 90 days": 203058.20967741936,
         "Daily average volume in last 365 days": 426279.48780487804,
-        "RSI": 47.43
+        "RSI": 51.3
       },
       {
         "ETF_NSE_Code": "NSE:CPSEETF",
@@ -94,9 +94,9 @@
         "R2": 112.45,
         "R3": 123.45,
         "Chart_Link": "https://www.tradingview.com/x/ppDAAUZp/",
-        "Daily average volume in last 90 days": 1131043.380952381,
-        "Daily average volume in last 365 days": 1612104.1138211382,
-        "RSI": 32.96
+        "Daily average volume in last 90 days": 1129159.6612903227,
+        "Daily average volume in last 365 days": 1612104.5203252032,
+        "RSI": 33.8
       },
       {
         "ETF_NSE_Code": "NSE:GOLDBEES",
@@ -113,9 +113,9 @@
         "R2": 131.82,
         "R3": 142.37,
         "Chart_Link": "https://www.tradingview.com/x/u2yS329C/",
-        "Daily average volume in last 90 days": 23490498.317460317,
-        "Daily average volume in last 365 days": 45889950.540650405,
-        "RSI": 73.73
+        "Daily average volume in last 90 days": 23373128.69354839,
+        "Daily average volume in last 365 days": 45889951.979674794,
+        "RSI": 75.77
       },
       {
         "ETF_NSE_Code": "NSE:HNGSNGBEES",
@@ -132,9 +132,9 @@
         "R2": 646.46,
         "R3": 706.45,
         "Chart_Link": "https://www.tradingview.com/x/jOebsxw9/",
-        "Daily average volume in last 90 days": 138033.6984126984,
+        "Daily average volume in last 90 days": 138311.48387096773,
         "Daily average volume in last 365 days": 165805.76829268291,
-        "RSI": 50.19
+        "RSI": 52.73
       },
       {
         "ETF_NSE_Code": "NSE:MAHKTECH",
@@ -151,9 +151,9 @@
         "R2": 27.72,
         "R3": 31.89,
         "Chart_Link": "https://www.tradingview.com/x/utrg1vV9/",
-        "Daily average volume in last 90 days": 600279.5238095238,
+        "Daily average volume in last 90 days": 605175.0483870967,
         "Daily average volume in last 365 days": 944898.7154471545,
-        "RSI": 46.86
+        "RSI": 47.37
       },
       {
         "ETF_NSE_Code": "NSE:HDFCGROWTH",
@@ -170,9 +170,9 @@
         "R2": 132.74,
         "R3": 147.13,
         "Chart_Link": "https://www.tradingview.com/x/wIjnIzHV/",
-        "Daily average volume in last 90 days": 25849,
+        "Daily average volume in last 90 days": 26122.564516129034,
         "Daily average volume in last 365 days": 22976.585365853658,
-        "RSI": 56.94
+        "RSI": 59.1
       },
       {
         "ETF_NSE_Code": "NSE:LOWVOLIETF",
@@ -189,9 +189,9 @@
         "R2": 26.9,
         "R3": 29.94,
         "Chart_Link": "https://www.tradingview.com/x/i5RMCfGJ/",
-        "Daily average volume in last 90 days": 2167906.095238095,
+        "Daily average volume in last 90 days": 2186921.7741935486,
         "Daily average volume in last 365 days": 2047563.3836734693,
-        "RSI": 52.16
+        "RSI": 55.26
       },
       {
         "ETF_NSE_Code": "NSE:HDFCQUAL",
@@ -208,9 +208,9 @@
         "R2": 61.85,
         "R3": 66.13,
         "Chart_Link": "https://www.tradingview.com/x/X0bVz4Wc/",
-        "Daily average volume in last 90 days": 17083.14285714286,
+        "Daily average volume in last 90 days": 17133.064516129034,
         "Daily average volume in last 365 days": 20099.434959349594,
-        "RSI": 67.05
+        "RSI": 70.37
       },
       {
         "ETF_NSE_Code": "NSE:BSE500IETF",
@@ -227,9 +227,9 @@
         "R2": 41.61,
         "R3": 44.99,
         "Chart_Link": "https://www.tradingview.com/x/ZEohPTQk/",
-        "Daily average volume in last 90 days": 141280.17460317462,
+        "Daily average volume in last 90 days": 142753.64516129033,
         "Daily average volume in last 365 days": 267101.918699187,
-        "RSI": 58.39
+        "RSI": 61.46
       },
       {
         "ETF_NSE_Code": "NSE:COMMOIETF",
@@ -246,9 +246,9 @@
         "R2": 122.39,
         "R3": 132.86,
         "Chart_Link": "https://www.tradingview.com/x/oFxr0YV2/",
-        "Daily average volume in last 90 days": 75242.95238095238,
+        "Daily average volume in last 90 days": 74964.64516129032,
         "Daily average volume in last 365 days": 141137.17551020408,
-        "RSI": 47.48
+        "RSI": 46.71
       },
       {
         "ETF_NSE_Code": "NSE:FINIETF",
@@ -265,9 +265,9 @@
         "R2": 36.49,
         "R3": 39.78,
         "Chart_Link": "https://www.tradingview.com/x/DGvR7YPw/",
-        "Daily average volume in last 90 days": 921141.4920634921,
+        "Daily average volume in last 90 days": 922394.8225806452,
         "Daily average volume in last 365 days": 690851.9837398374,
-        "RSI": 49.24
+        "RSI": 52.62
       },
       {
         "ETF_NSE_Code": "NSE:INFRAIETF",
@@ -284,9 +284,9 @@
         "R2": 104.64,
         "R3": 109.33,
         "Chart_Link": "https://www.tradingview.com/x/jTVEoY84/",
-        "Daily average volume in last 90 days": 147312.11111111112,
+        "Daily average volume in last 90 days": 147949.83870967742,
         "Daily average volume in last 365 days": 208167.10162601626,
-        "RSI": 50.76
+        "RSI": 51.81
       },
       {
         "ETF_NSE_Code": "NSE:MNC",
@@ -303,9 +303,9 @@
         "R2": 36,
         "R3": 37.5,
         "Chart_Link": "https://www.tradingview.com/x/SEW8KcB1/",
-        "Daily average volume in last 90 days": 86816.33333333333,
+        "Daily average volume in last 90 days": 87526.08064516129,
         "Daily average volume in last 365 days": 97996.53658536586,
-        "RSI": 62.04
+        "RSI": 63.61
       },
       {
         "ETF_NSE_Code": "NSE:ALPHAETF",
@@ -322,9 +322,9 @@
         "R2": 30,
         "R3": 32.62,
         "Chart_Link": "https://www.tradingview.com/x/DNPkfUm9/",
-        "Daily average volume in last 90 days": 414836.79365079367,
+        "Daily average volume in last 90 days": 419642.5967741936,
         "Daily average volume in last 365 days": 585618.4105691056,
-        "RSI": 57.34
+        "RSI": 57.64
       },
       {
         "ETF_NSE_Code": "NSE:MIDSMALL",
@@ -341,9 +341,9 @@
         "R2": 54.8,
         "R3": 57.06,
         "Chart_Link": "https://www.tradingview.com/x/P0WUHpmI/",
-        "Daily average volume in last 90 days": 364656.22222222225,
+        "Daily average volume in last 90 days": 362481.5806451613,
         "Daily average volume in last 365 days": 369478.8658536585,
-        "RSI": 61.78
+        "RSI": 64.01
       },
       {
         "ETF_NSE_Code": "NSE:SMALLCAP",
@@ -360,9 +360,9 @@
         "R2": 51,
         "R3": 53.92,
         "Chart_Link": "https://www.tradingview.com/x/irLZv6F7/",
-        "Daily average volume in last 90 days": 1954369.761904762,
+        "Daily average volume in last 90 days": 1962546.9677419355,
         "Daily average volume in last 365 days": 2229096.861788618,
-        "RSI": 58.28
+        "RSI": 61.47
       },
       {
         "ETF_NSE_Code": "NSE:MONIFTY500",
@@ -379,9 +379,9 @@
         "R2": 26.99,
         "R3": 28.29,
         "Chart_Link": "https://www.tradingview.com/x/5H32A7EI/",
-        "Daily average volume in last 90 days": 1464435.396825397,
+        "Daily average volume in last 90 days": 1475724.4032258065,
         "Daily average volume in last 365 days": 909102.9268292683,
-        "RSI": 61.05
+        "RSI": 65.78
       },
       {
         "ETF_NSE_Code": "NSE:MOREALTY",
@@ -398,9 +398,9 @@
         "R2": 99.91,
         "R3": 104.5,
         "Chart_Link": "https://www.tradingview.com/x/KlRLXOSZ/",
-        "Daily average volume in last 90 days": 1014449.253968254,
+        "Daily average volume in last 90 days": 971600.2258064516,
         "Daily average volume in last 365 days": 826985.3983739837,
-        "RSI": 50.38
+        "RSI": 52.85
       },
       {
         "ETF_NSE_Code": "NSE:MOSMALL250",
@@ -417,9 +417,9 @@
         "R2": 21.37,
         "R3": 23.13,
         "Chart_Link": "https://www.tradingview.com/x/wrlO6Esx/",
-        "Daily average volume in last 90 days": 2117985.1904761903,
+        "Daily average volume in last 90 days": 2130553.5,
         "Daily average volume in last 365 days": 1848716.0853658537,
-        "RSI": 52.72
+        "RSI": 55.98
       },
       {
         "ETF_NSE_Code": "NSE:MOVALUE",
@@ -436,9 +436,9 @@
         "R2": 139,
         "R3": 152,
         "Chart_Link": "https://www.tradingview.com/x/DvlC07GR/",
-        "Daily average volume in last 90 days": 94524.3492063492,
+        "Daily average volume in last 90 days": 94529.66129032258,
         "Daily average volume in last 365 days": 130304.4756097561,
-        "RSI": 47.05
+        "RSI": 50.88
       },
       {
         "ETF_NSE_Code": "NSE:MONQ50",
@@ -455,9 +455,9 @@
         "R2": 172,
         "R3": 190,
         "Chart_Link": "https://www.tradingview.com/x/W9OxAB8f/",
-        "Daily average volume in last 90 days": 62488.8253968254,
+        "Daily average volume in last 90 days": 63071.467741935485,
         "Daily average volume in last 365 days": 135612.41463414635,
-        "RSI": 63.11
+        "RSI": 64.9
       },
       {
         "ETF_NSE_Code": "NSE:MON100",
@@ -474,9 +474,9 @@
         "R2": 367,
         "R3": 394,
         "Chart_Link": "https://www.tradingview.com/x/rRfTASkg/",
-        "Daily average volume in last 90 days": 594511,
+        "Daily average volume in last 90 days": 599261.1129032258,
         "Daily average volume in last 365 days": 917179.6666666666,
-        "RSI": 57.57
+        "RSI": 56.08
       },
       {
         "ETF_NSE_Code": "NSE:TOP100CASE",
@@ -493,9 +493,9 @@
         "R2": 11.58,
         "R3": 12.02,
         "Chart_Link": "https://www.tradingview.com/x/bzZaTF4A/",
-        "Daily average volume in last 90 days": 778021.4126984127,
+        "Daily average volume in last 90 days": 783111.6290322581,
         "Daily average volume in last 365 days": 1053791.7886178861,
-        "RSI": 55.58
+        "RSI": 58.59
       },
       {
         "ETF_NSE_Code": "NSE:NIFTYBEES",
@@ -512,9 +512,9 @@
         "R2": 303,
         "R3": 320,
         "Chart_Link": "https://www.tradingview.com/x/GqXQ2OzF/",
-        "Daily average volume in last 90 days": 6578168.619047619,
-        "Daily average volume in last 365 days": 7492789.447154472,
-        "RSI": 51.8
+        "Daily average volume in last 90 days": 6578630.451612903,
+        "Daily average volume in last 365 days": 7492793.861788617,
+        "RSI": 55.68
       },
       {
         "ETF_NSE_Code": "NSE:MOMENTUM50",
@@ -531,9 +531,9 @@
         "R2": 58,
         "R3": 62.65,
         "Chart_Link": "https://www.tradingview.com/x/S99aCFqR/",
-        "Daily average volume in last 90 days": 653642.5714285715,
+        "Daily average volume in last 90 days": 658794.9354838709,
         "Daily average volume in last 365 days": 607597.6097560975,
-        "RSI": 61.58
+        "RSI": 61.01
       },
       {
         "ETF_NSE_Code": "NSE:ALPHA",
@@ -550,9 +550,9 @@
         "R2": 57.47,
         "R3": 61,
         "Chart_Link": "https://www.tradingview.com/x/MDUW65lN/",
-        "Daily average volume in last 90 days": 1264181.2063492064,
+        "Daily average volume in last 90 days": 1273480.6290322582,
         "Daily average volume in last 365 days": 1353822.930894309,
-        "RSI": 65.18
+        "RSI": 66.7
       },
       {
         "ETF_NSE_Code": "NSE:ALPL30IETF",
@@ -569,9 +569,9 @@
         "R2": 29.74,
         "R3": 31.03,
         "Chart_Link": "https://www.tradingview.com/x/LEfNtJKB/",
-        "Daily average volume in last 90 days": 687879.5555555555,
+        "Daily average volume in last 90 days": 694321.2580645161,
         "Daily average volume in last 365 days": 1186987.2723577237,
-        "RSI": 59.46
+        "RSI": 63.1
       },
       {
         "ETF_NSE_Code": "NSE:AUTOIETF",
@@ -588,9 +588,9 @@
         "R2": 29.35,
         "R3": 30.26,
         "Chart_Link": "https://www.tradingview.com/x/QbCGHIjk/",
-        "Daily average volume in last 90 days": 884310.746031746,
+        "Daily average volume in last 90 days": 862925.9193548387,
         "Daily average volume in last 365 days": 859513.5,
-        "RSI": 72.86
+        "RSI": 78.53
       },
       {
         "ETF_NSE_Code": "NSE:BANKBEES",
@@ -607,9 +607,9 @@
         "R2": 629,
         "R3": 653,
         "Chart_Link": "https://www.tradingview.com/x/ifdWB6U6/",
-        "Daily average volume in last 90 days": 1017757.3968253968,
-        "Daily average volume in last 365 days": 876055.5284552845,
-        "RSI": 49.69
+        "Daily average volume in last 90 days": 1018924.7903225806,
+        "Daily average volume in last 365 days": 876055.5325203252,
+        "RSI": 53.36
       },
       {
         "ETF_NSE_Code": "NSE:DIVOPPBEES",
@@ -626,9 +626,9 @@
         "R2": 82.26,
         "R3": 86.35,
         "Chart_Link": "https://www.tradingview.com/x/5Ee4SCOm/",
-        "Daily average volume in last 90 days": 50258.30158730159,
+        "Daily average volume in last 90 days": 50528.096774193546,
         "Daily average volume in last 365 days": 72462.67073170732,
-        "RSI": 52.2
+        "RSI": 55.68
       },
       {
         "ETF_NSE_Code": "NSE:EVINDIA",
@@ -645,9 +645,9 @@
         "R2": 34.09,
         "R3": 36.2,
         "Chart_Link": "https://www.tradingview.com/x/P9vaiMpL/",
-        "Daily average volume in last 90 days": 336037.8253968254,
+        "Daily average volume in last 90 days": 337083.79032258067,
         "Daily average volume in last 365 days": 277187.27642276423,
-        "RSI": 80.97
+        "RSI": 86.92
       },
       {
         "ETF_NSE_Code": "NSE:BFSI",
@@ -664,9 +664,9 @@
         "R2": 29.99,
         "R3": 31.45,
         "Chart_Link": "https://www.tradingview.com/x/LIFBc8jd/",
-        "Daily average volume in last 90 days": 712442.2063492064,
+        "Daily average volume in last 90 days": 711339.0161290322,
         "Daily average volume in last 365 days": 492650.27235772356,
-        "RSI": 40.89
+        "RSI": 43.66
       },
       {
         "ETF_NSE_Code": "NSE:FMCGIETF",
@@ -683,9 +683,9 @@
         "R2": 57.54,
         "R3": 60.38,
         "Chart_Link": "https://www.tradingview.com/x/E3BUzNfh/",
-        "Daily average volume in last 90 days": 1245967.0158730159,
+        "Daily average volume in last 90 days": 1253181.2903225806,
         "Daily average volume in last 365 days": 1515013.575510204,
-        "RSI": 42.06
+        "RSI": 44.14
       },
       {
         "ETF_NSE_Code": "NSE:HEALTHY",
@@ -702,9 +702,9 @@
         "R2": 18.5,
         "R3": 19.8,
         "Chart_Link": "https://www.tradingview.com/x/JLfFUxIL/",
-        "Daily average volume in last 90 days": 380573.6666666667,
+        "Daily average volume in last 90 days": 382833,
         "Daily average volume in last 365 days": 397724.22357723577,
-        "RSI": 49.76
+        "RSI": 49.47
       },
       {
         "ETF_NSE_Code": "NSE:MOHEALTH",
@@ -721,9 +721,9 @@
         "R2": 54.3,
         "R3": 56.93,
         "Chart_Link": "https://www.tradingview.com/x/XAD7Pkg2/",
-        "Daily average volume in last 90 days": 76604.07936507936,
+        "Daily average volume in last 90 days": 76183.09677419355,
         "Daily average volume in last 365 days": 78519.48780487805,
-        "RSI": 50.63
+        "RSI": 50.25
       },
       {
         "ETF_NSE_Code": "NSE:CONSUMBEES",
@@ -740,9 +740,9 @@
         "R2": 138.02,
         "R3": 144.73,
         "Chart_Link": "https://www.tradingview.com/x/9EjSjfrU/",
-        "Daily average volume in last 90 days": 99726.22222222222,
+        "Daily average volume in last 90 days": 100550.62903225806,
         "Daily average volume in last 365 days": 143546.62601626015,
-        "RSI": 63.41
+        "RSI": 65.82
       },
       {
         "ETF_NSE_Code": "NSE:MODEFENCE",
@@ -759,9 +759,9 @@
         "R2": 112.55,
         "R3": 118.68,
         "Chart_Link": "https://www.tradingview.com/x/gD8DSgW3/",
-        "Daily average volume in last 90 days": 1845088.507936508,
-        "Daily average volume in last 365 days": 2962951.9105691058,
-        "RSI": 67.1
+        "Daily average volume in last 90 days": 1846307.5322580645,
+        "Daily average volume in last 365 days": 2962951.9227642277,
+        "RSI": 70.31
       },
       {
         "ETF_NSE_Code": "NSE:TNIDETF",
@@ -778,9 +778,9 @@
         "R2": 90.47,
         "R3": 93.57,
         "Chart_Link": "https://www.tradingview.com/x/VPXbf6Sh/",
-        "Daily average volume in last 90 days": 97923.55555555556,
+        "Daily average volume in last 90 days": 97951.43548387097,
         "Daily average volume in last 365 days": 80876.32520325204,
-        "RSI": 64.52
+        "RSI": 66.85
       },
       {
         "ETF_NSE_Code": "NSE:MAKEINDIA",
@@ -797,9 +797,9 @@
         "R2": 175.79,
         "R3": 187.24,
         "Chart_Link": "https://www.tradingview.com/x/A60zFaxa/",
-        "Daily average volume in last 90 days": 47802.39682539683,
+        "Daily average volume in last 90 days": 48450.967741935485,
         "Daily average volume in last 365 days": 49997.53252032521,
-        "RSI": 73.65
+        "RSI": 74.28
       },
       {
         "ETF_NSE_Code": "NSE:ITBEES",
@@ -816,9 +816,9 @@
         "R2": 33.5,
         "R3": 37.2,
         "Chart_Link": "https://www.tradingview.com/x/zOBqiQyG/",
-        "Daily average volume in last 90 days": 20862160.634920634,
-        "Daily average volume in last 365 days": 16588345.632653061,
-        "RSI": 56.42
+        "Daily average volume in last 90 days": 20592287.596774194,
+        "Daily average volume in last 365 days": 16588346.963265305,
+        "RSI": 58.64
       },
       {
         "ETF_NSE_Code": "NSE:METALIETF",
@@ -835,9 +835,9 @@
         "R2": 14.24,
         "R3": 15.38,
         "Chart_Link": "https://www.tradingview.com/x/6MXAxv0p/",
-        "Daily average volume in last 90 days": 9948855.19047619,
+        "Daily average volume in last 90 days": 9973552.64516129,
         "Daily average volume in last 365 days": 14573296.886178862,
-        "RSI": 60.77
+        "RSI": 59.35
       },
       {
         "ETF_NSE_Code": "NSE:MOM100",
@@ -854,9 +854,9 @@
         "R2": 72.42,
         "R3": 76.47,
         "Chart_Link": "https://www.tradingview.com/x/mcTnxuPK/",
-        "Daily average volume in last 90 days": 452810.68253968254,
+        "Daily average volume in last 90 days": 453198.6935483871,
         "Daily average volume in last 365 days": 517814.756097561,
-        "RSI": 56.22
+        "RSI": 56.94
       },
       {
         "ETF_NSE_Code": "NSE:MIDCAPETF",
@@ -873,9 +873,9 @@
         "R2": 25.23,
         "R3": 26.29,
         "Chart_Link": "https://www.tradingview.com/x/R8iArwIn/",
-        "Daily average volume in last 90 days": 2574226.746031746,
+        "Daily average volume in last 90 days": 2580752.870967742,
         "Daily average volume in last 365 days": 3191572.2154471544,
-        "RSI": 58.92
+        "RSI": 61.04
       },
       {
         "ETF_NSE_Code": "NSE:MIDCAP",
@@ -892,9 +892,9 @@
         "R2": 24.17,
         "R3": 29.26,
         "Chart_Link": "https://www.tradingview.com/x/zJQDHttP/",
-        "Daily average volume in last 90 days": 428093.9682539682,
+        "Daily average volume in last 90 days": 428616.7580645161,
         "Daily average volume in last 365 days": 307501.9918699187,
-        "RSI": 57.76
+        "RSI": 60.43
       },
       {
         "ETF_NSE_Code": "NSE:NEXT50IETF",
@@ -911,9 +911,9 @@
         "R2": 81.57,
         "R3": 87.13,
         "Chart_Link": "https://www.tradingview.com/x/RRZqYbWD/",
-        "Daily average volume in last 90 days": 1054928.619047619,
+        "Daily average volume in last 90 days": 1062911.1451612904,
         "Daily average volume in last 365 days": 928921.9674796748,
-        "RSI": 67.98
+        "RSI": 70.02
       },
       {
         "ETF_NSE_Code": "NSE:OILIETF",
@@ -930,9 +930,9 @@
         "R2": 12.76,
         "R3": 13.95,
         "Chart_Link": "https://www.tradingview.com/x/DYbgOnxC/",
-        "Daily average volume in last 90 days": 2113049.4285714286,
+        "Daily average volume in last 90 days": 2111583.0322580645,
         "Daily average volume in last 365 days": 3142150.426829268,
-        "RSI": 53.03
+        "RSI": 55.71
       },
       {
         "ETF_NSE_Code": "NSE:PHARMABEES",
@@ -949,9 +949,9 @@
         "R2": 28.29,
         "R3": 29.3,
         "Chart_Link": "https://www.tradingview.com/x/LEzGsyGP/",
-        "Daily average volume in last 90 days": 6143098.587301588,
+        "Daily average volume in last 90 days": 6099986.951612903,
         "Daily average volume in last 365 days": 5822998.028455284,
-        "RSI": 56.92
+        "RSI": 55.21
       },
       {
         "ETF_NSE_Code": "NSE:PVTBANIETF",
@@ -968,9 +968,9 @@
         "R2": 29.9,
         "R3": 30.93,
         "Chart_Link": "https://www.tradingview.com/x/hhvI0XFj/",
-        "Daily average volume in last 90 days": 7606209.444444444,
-        "Daily average volume in last 365 days": 3453689.5772357723,
-        "RSI": 42.42
+        "Daily average volume in last 90 days": 7624220.451612903,
+        "Daily average volume in last 365 days": 3453689.5813008132,
+        "RSI": 44.52
       },
       {
         "ETF_NSE_Code": "NSE:PSUBNKBEES",
@@ -987,9 +987,9 @@
         "R2": 100.29,
         "R3": 105.7,
         "Chart_Link": "https://www.tradingview.com/x/3qWJrp6r/",
-        "Daily average volume in last 90 days": 3011019.4285714286,
+        "Daily average volume in last 90 days": 3027123.290322581,
         "Daily average volume in last 365 days": 3448252.7195121953,
-        "RSI": 58.51
+        "RSI": 62.78
       },
       {
         "ETF_NSE_Code": "NSE:TOP10ADD",
@@ -1006,9 +1006,9 @@
         "R2": 90.92,
         "R3": 92.5,
         "Chart_Link": "https://www.tradingview.com/x/yRJb4IMC/",
-        "Daily average volume in last 90 days": 299772.3968253968,
+        "Daily average volume in last 90 days": 303061.62903225806,
         "Daily average volume in last 365 days": 506550.418699187,
-        "RSI": 48.96
+        "RSI": 49.87
       },
       {
         "ETF_NSE_Code": "NSE:ESG",
@@ -1025,9 +1025,9 @@
         "R2": 44.01,
         "R3": 45.14,
         "Chart_Link": "https://www.tradingview.com/x/iofbKQsH/",
-        "Daily average volume in last 90 days": 30735.650793650795,
+        "Daily average volume in last 90 days": 31031.290322580644,
         "Daily average volume in last 365 days": 33540.5162601626,
-        "RSI": 49.65
+        "RSI": 51.8
       },
       {
         "ETF_NSE_Code": "NSE:NV20IETF",
@@ -1044,9 +1044,9 @@
         "R2": 14.71,
         "R3": 15.56,
         "Chart_Link": "https://www.tradingview.com/x/wFBAGZNK/",
-        "Daily average volume in last 90 days": 523961.77777777775,
+        "Daily average volume in last 90 days": 528118.3064516129,
         "Daily average volume in last 365 days": 496168.02032520325,
-        "RSI": 43.34
+        "RSI": 45.38
       },
       {
         "ETF_NSE_Code": "NSE:MULTICAP",
@@ -1063,9 +1063,9 @@
         "R2": 17.53,
         "R3": 18,
         "Chart_Link": "https://www.tradingview.com/x/I0RYaPhj/",
-        "Daily average volume in last 90 days": 217552.0634920635,
+        "Daily average volume in last 90 days": 219945.70967741936,
         "Daily average volume in last 365 days": 320250.60162601626,
-        "RSI": 56.97
+        "RSI": 59.87
       },
       {
         "ETF_NSE_Code": "NSE:EMULTIMQ",
@@ -1082,9 +1082,9 @@
         "R2": 43.58,
         "R3": 44.69,
         "Chart_Link": "https://www.tradingview.com/x/e5wPRE4V/",
-        "Daily average volume in last 90 days": 37032.01587301587,
+        "Daily average volume in last 90 days": 37303.16129032258,
         "Daily average volume in last 365 days": 66565.71138211382,
-        "RSI": 59.64
+        "RSI": 62.36
       },
       {
         "ETF_NSE_Code": "NSE:MAFANG",
@@ -1101,9 +1101,9 @@
         "R2": 221.87,
         "R3": 238.59,
         "Chart_Link": "https://www.tradingview.com/x/pwXFA7a7/",
-        "Daily average volume in last 90 days": 246688.90476190476,
+        "Daily average volume in last 90 days": 248221.06451612903,
         "Daily average volume in last 365 days": 317253.1300813008,
-        "RSI": 67.46
+        "RSI": 66.14
       },
       {
         "ETF_NSE_Code": "NSE:MASPTOP50",
@@ -1120,9 +1120,9 @@
         "R2": 88.78,
         "R3": 93.32,
         "Chart_Link": "https://www.tradingview.com/x/h8VrK5Xa/",
-        "Daily average volume in last 90 days": 135503.9365079365,
+        "Daily average volume in last 90 days": 136447.14516129033,
         "Daily average volume in last 365 days": 215691.53658536586,
-        "RSI": 59.72
+        "RSI": 57.77
       },
       {
         "ETF_NSE_Code": "NSE:ICICIB22",
@@ -1139,9 +1139,9 @@
         "R2": 126.54,
         "R3": 131.47,
         "Chart_Link": "https://www.tradingview.com/x/gEGfHZy8/",
-        "Daily average volume in last 90 days": 414618.5396825397,
+        "Daily average volume in last 90 days": 414300.8548387097,
         "Daily average volume in last 365 days": 508200.7551020408,
-        "RSI": 39.67
+        "RSI": 43.38
       },
       {
         "ETF_NSE_Code": "NSE:MIDSELIETF",
@@ -1158,9 +1158,9 @@
         "R2": 20.86,
         "R3": 22.38,
         "Chart_Link": "https://www.tradingview.com/x/SLMQDLst/",
-        "Daily average volume in last 90 days": 296837.31746031746,
+        "Daily average volume in last 90 days": 299053.72580645164,
         "Daily average volume in last 365 days": 272531.96341463417,
-        "RSI": 64.7
+        "RSI": 68.51
       },
       {
         "ETF_NSE_Code": "NSE:SILVERBEES",
@@ -1177,9 +1177,9 @@
         "R2": 243.88,
         "R3": 267.47,
         "Chart_Link": "https://www.tradingview.com/x/loeQADzT/",
-        "Daily average volume in last 90 days": 26106135.04761905,
-        "Daily average volume in last 365 days": 56334661.638211384,
-        "RSI": 67.34
+        "Daily average volume in last 90 days": 25972702,
+        "Daily average volume in last 365 days": 56334693.451219514,
+        "RSI": 66.54
       },
       {
         "ETF_NSE_Code": "NSE:SENSEXIETF\n",
@@ -1196,9 +1196,9 @@
         "R2": 931.56,
         "R3": 980.65,
         "Chart_Link": "https://www.tradingview.com/x/VXXvq73U/",
-        "Daily average volume in last 90 days": 17360.285714285714,
+        "Daily average volume in last 90 days": 17474.16129032258,
         "Daily average volume in last 365 days": 22901.38211382114,
-        "RSI": 50.85
+        "RSI": 53.61
       },
       {
         "ETF_NSE_Code": "NSE:CHEMICAL",
@@ -1215,9 +1215,9 @@
         "R2": 31.97,
         "R3": 32.93,
         "Chart_Link": "https://www.tradingview.com/x/OkGk27V2/",
-        "Daily average volume in last 90 days": 706263.4126984127,
+        "Daily average volume in last 90 days": 678040.2419354839,
         "Daily average volume in last 365 days": 520953.2021857923,
-        "RSI": 59.05
+        "RSI": 58.86
       },
       {
         "ETF_NSE_Code": "NSE:HEALTHIETF",
@@ -1234,9 +1234,9 @@
         "R2": 178.75,
         "R3": 187.71,
         "Chart_Link": "https://www.tradingview.com/x/2IWjDN62/",
-        "Daily average volume in last 90 days": 126764.93650793651,
+        "Daily average volume in last 90 days": 126820.24193548386,
         "Daily average volume in last 365 days": 111636.07723577236,
-        "RSI": 47.65
+        "RSI": 45.7
       },
       {
         "ETF_NSE_Code": "NSE:DEFENCE",
@@ -1253,9 +1253,9 @@
         "R2": 86.52,
         "R3": 91.41,
         "Chart_Link": "https://www.tradingview.com/x/6JX6AR5v/",
-        "Daily average volume in last 90 days": 212646.74603174604,
+        "Daily average volume in last 90 days": 213980.5,
         "Daily average volume in last 365 days": 237885.8151260504,
-        "RSI": 70.52
+        "RSI": 72.95
       },
       {
         "ETF_NSE_Code": "NSE:GROWWRAIL",
@@ -1272,9 +1272,9 @@
         "R2": 34.32,
         "R3": 36.87,
         "Chart_Link": "https://www.tradingview.com/x/YdoCNCgN/",
-        "Daily average volume in last 90 days": 627772.6031746032,
-        "Daily average volume in last 365 days": 674930.406504065,
-        "RSI": 47.29
+        "Daily average volume in last 90 days": 633785.9354838709,
+        "Daily average volume in last 365 days": 674930.4105691056,
+        "RSI": 47.51
       },
       {
         "ETF_NSE_Code": "NSE:MOCAPITAL",
@@ -1291,9 +1291,9 @@
         "R2": 62.09,
         "R3": 68.11,
         "Chart_Link": "https://www.tradingview.com/x/T0sRnSK5/",
-        "Daily average volume in last 90 days": 998275.0793650794,
+        "Daily average volume in last 90 days": 1000441.4032258064,
         "Daily average volume in last 365 days": 892154.4105691056,
-        "RSI": 43.98
+        "RSI": 45.33
       },
       {
         "ETF_NSE_Code": "NSE:ENERGY",
@@ -1310,9 +1310,9 @@
         "R2": 43.18,
         "R3": 45.73,
         "Chart_Link": "https://www.tradingview.com/x/VxuhHNY8/",
-        "Daily average volume in last 90 days": 503901.98412698414,
+        "Daily average volume in last 90 days": 506759.51612903224,
         "Daily average volume in last 365 days": 908427.0534759358,
-        "RSI": 46.8
+        "RSI": 46.19
       },
       {
         "ETF_NSE_Code": "NSE:EVIETF",
@@ -1329,9 +1329,9 @@
         "R2": 33.73,
         "R3": 34.86,
         "Chart_Link": "https://www.tradingview.com/x/ZlIZwgld/",
-        "Daily average volume in last 90 days": 192775.74603174604,
+        "Daily average volume in last 90 days": 191897.64516129033,
         "Daily average volume in last 365 days": 154788.28861788617,
-        "RSI": 75.55
+        "RSI": 79.79
       },
       {
         "ETF_NSE_Code": "NSE:MASPTOP50",
@@ -1348,9 +1348,9 @@
         "R2": null,
         "R3": null,
         "Chart_Link": null,
-        "Daily average volume in last 90 days": 135503.9365079365,
+        "Daily average volume in last 90 days": 136447.14516129033,
         "Daily average volume in last 365 days": 215691.53658536586,
-        "RSI": 59.72
+        "RSI": 57.77
       }
     ]
   }
