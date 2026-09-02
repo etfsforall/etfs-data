@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-02T10:34:29Z",
+  "last_updated": "2026-09-02T11:43:25Z",
   "data": {
-    "last_updated": "2026-09-02T10:34:28.520Z",
+    "last_updated": "2026-09-02T11:43:24.674Z",
     "data": [
       {
         "ETF_NSE_Code": "NSE:MOM30IETF",
@@ -62,8 +62,8 @@
         "R2": 17.62,
         "R3": 18.98,
         "Chart_Link": "https://www.tradingview.com/x/BYsljU9x/",
-        "Daily average volume in last 90 days": 327208.5714285714,
-        "Daily average volume in last 365 days": 398335.87044534413,
+        "Daily average volume in last 90 days": 323945.765625,
+        "Daily average volume in last 365 days": 397207.05241935485,
         "RSI": 38.23,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
@@ -394,7 +394,7 @@
         "Chart_Link": "https://www.tradingview.com/x/P0WUHpmI/",
         "Daily average volume in last 90 days": 336874.95238095237,
         "Daily average volume in last 365 days": 367711.44129554654,
-        "RSI": 56.97,
+        "RSI": null,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -613,7 +613,7 @@
         "R3": 62.65,
         "Chart_Link": "https://www.tradingview.com/x/S99aCFqR/",
         "Daily average volume in last 90 days": 672205.3968253968,
-        "Daily average volume in last 365 days": 616000.9271255061,
+        "Daily average volume in last 365 days": 614884.9798387097,
         "RSI": 60.64,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
@@ -692,7 +692,7 @@
         "WK_52": 515.98,
         "CMP-52WKLow": 77.44999999999993,
         "PERCENT_CHANGE": 15.010271715957968,
-        "SMA_22": 596.5676190476191,
+        "SMA_22": 596.4247619047619,
         "S1": 582,
         "S2": 565,
         "S3": 549,
@@ -1009,7 +1009,7 @@
         "R3": 26.29,
         "Chart_Link": "https://www.tradingview.com/x/R8iArwIn/",
         "Daily average volume in last 90 days": 2494732.698412698,
-        "Daily average volume in last 365 days": 3180304.7206477732,
+        "Daily average volume in last 365 days": 3178194.959677419,
         "RSI": 47.05,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
