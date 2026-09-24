@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-24T10:05:00Z",
+  "last_updated": "2026-09-24T11:04:19Z",
   "data": {
-    "last_updated": "2026-09-24T10:04:59.318Z",
+    "last_updated": "2026-09-24T11:04:19.065Z",
     "data": [
       {
         "ETF_NSE_Code": "NSE:MOM30IETF",
@@ -578,10 +578,10 @@
       {
         "ETF_NSE_Code": "NSE:NIFTYBEES",
         "ETF_NAME": "Nifty 50",
-        "CMP": 264.2,
+        "CMP": 264.98,
         "WK_52": 251.7,
-        "CMP-52WKLow": 12.5,
-        "PERCENT_CHANGE": 4.966229638458483,
+        "CMP-52WKLow": 13.28000000000003,
+        "PERCENT_CHANGE": 5.276122367898304,
         "SMA_22": 270.467619047619,
         "S1": 260,
         "S2": 244,
@@ -1238,10 +1238,10 @@
       {
         "ETF_NSE_Code": "NSE:EMULTIMQ",
         "ETF_NAME": "Nifty500 Multicap Momentum Quality 50 Total Return Index",
-        "CMP": 41.47,
+        "CMP": 41.54,
         "WK_52": 36.25,
-        "CMP-52WKLow": 5.219999999999999,
-        "PERCENT_CHANGE": 14.399999999999997,
+        "CMP-52WKLow": 5.289999999999999,
+        "PERCENT_CHANGE": 14.593103448275858,
         "SMA_22": 41.73047619047619,
         "S1": 40.42,
         "S2": 39.35,
@@ -1348,10 +1348,10 @@
       {
         "ETF_NSE_Code": "NSE:SILVERBEES",
         "ETF_NAME": "Domestic price of Silver- based on LBMA Silver daily spot fixing price",
-        "CMP": 216.13,
+        "CMP": 216.24,
         "WK_52": 129.05,
-        "CMP-52WKLow": 87.07999999999998,
-        "PERCENT_CHANGE": 67.47772181325065,
+        "CMP-52WKLow": 87.19,
+        "PERCENT_CHANGE": 67.56296009298721,
         "SMA_22": 221.69095238095238,
         "S1": 201.6,
         "S2": 180.46,
