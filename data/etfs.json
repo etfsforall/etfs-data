@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-28T10:11:30Z",
+  "last_updated": "2026-09-28T11:06:43Z",
   "data": {
-    "last_updated": "2026-09-28T10:11:29.910Z",
+    "last_updated": "2026-09-28T11:06:42.438Z",
     "data": [
       {
         "ETF_NSE_Code": "NSE:MOM30IETF",
@@ -450,7 +450,7 @@
         "WK_52": 64,
         "CMP-52WKLow": 21.150000000000006,
         "PERCENT_CHANGE": 33.04687500000001,
-        "SMA_22": 87.62380952380951,
+        "SMA_22": 87.34095238095239,
         "S1": 88.74,
         "S2": 84,
         "S3": 74.84,
@@ -458,9 +458,9 @@
         "R2": 99.91,
         "R3": 104.5,
         "Chart_Link": "https://www.tradingview.com/x/KlRLXOSZ/",
-        "Daily average volume in last 90 days": 972538.3333333334,
-        "Daily average volume in last 365 days": 890655.6489795918,
-        "RSI": 44.5,
+        "Daily average volume in last 90 days": 964694.140625,
+        "Daily average volume in last 365 days": 888947.7398373984,
+        "RSI": 38.84,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -604,7 +604,7 @@
         "WK_52": 44.96,
         "CMP-52WKLow": 7.539999999999999,
         "PERCENT_CHANGE": 16.770462633451956,
-        "SMA_22": 54.12761904761905,
+        "SMA_22": 53.99666666666667,
         "S1": 50,
         "S2": 48,
         "S3": 45,
@@ -612,9 +612,9 @@
         "R2": 58,
         "R3": 62.65,
         "Chart_Link": "https://www.tradingview.com/x/S99aCFqR/",
-        "Daily average volume in last 90 days": 584187.9523809524,
-        "Daily average volume in last 365 days": 625842.7551020408,
-        "RSI": 45.16,
+        "Daily average volume in last 90 days": 584650.0625,
+        "Daily average volume in last 365 days": 625793.650406504,
+        "RSI": 37.34,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
