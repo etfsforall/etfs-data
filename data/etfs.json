@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-16T13:13:55Z",
+  "last_updated": "2026-10-16T13:37:19Z",
   "data": {
-    "last_updated": "2026-10-16T13:13:54.668Z",
+    "last_updated": "2026-10-16T13:37:18.576Z",
     "data": [
       {
         "ETF_NSE_Code": "NSE:MOM30IETF",
@@ -348,7 +348,7 @@
         "R2": 36,
         "R3": 37.5,
         "Chart_Link": "https://www.tradingview.com/x/SEW8KcB1/",
-        "Daily average volume in last 90 days": 74094.58064516129,
+        "Daily average volume in last 90 days": 73795.3492063492,
         "Daily average volume in last 365 days": 92439.25101214575,
         "RSI": 34.56,
         "Trend_Counter": 0,
@@ -480,7 +480,7 @@
         "R2": 21.37,
         "R3": 23.13,
         "Chart_Link": "https://www.tradingview.com/x/wrlO6Esx/",
-        "Daily average volume in last 90 days": 1585192.8064516129,
+        "Daily average volume in last 90 days": 1574614.5873015872,
         "Daily average volume in last 365 days": 1852818.6072874493,
         "RSI": 39.44,
         "Trend_Counter": 0,
@@ -526,7 +526,7 @@
         "Chart_Link": "https://www.tradingview.com/x/W9OxAB8f/",
         "Daily average volume in last 90 days": 778638.0793650794,
         "Daily average volume in last 365 days": 288887.95141700405,
-        "RSI": 51.05,
+        "RSI": 52.55,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -758,7 +758,7 @@
         "WK_52": 24.03,
         "CMP-52WKLow": 2.379999999999999,
         "PERCENT_CHANGE": 9.904286308780685,
-        "SMA_22": 26.045238095238098,
+        "SMA_22": 26.050952380952385,
         "S1": 26.68,
         "S2": 25.52,
         "S3": 24.12,
@@ -768,7 +768,7 @@
         "Chart_Link": "https://www.tradingview.com/x/LIFBc8jd/",
         "Daily average volume in last 90 days": 362936.31746031746,
         "Daily average volume in last 365 days": 493029.2024291498,
-        "RSI": 51.71,
+        "RSI": 52.16,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -790,7 +790,7 @@
         "Chart_Link": "https://www.tradingview.com/x/E3BUzNfh/",
         "Daily average volume in last 90 days": 1461161.142857143,
         "Daily average volume in last 365 days": 1574572.8658536586,
-        "RSI": 48.22,
+        "RSI": 51.59,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -956,7 +956,7 @@
         "WK_52": 10,
         "CMP-52WKLow": 2.2699999999999996,
         "PERCENT_CHANGE": 22.699999999999996,
-        "SMA_22": 12.673333333333336,
+        "SMA_22": 12.642857142857148,
         "S1": 12.03,
         "S2": 11.24,
         "S3": 9.98,
@@ -966,7 +966,7 @@
         "Chart_Link": "https://www.tradingview.com/x/6MXAxv0p/",
         "Daily average volume in last 90 days": 7665336.46031746,
         "Daily average volume in last 365 days": 14732626.736842105,
-        "RSI": 33.09,
+        "RSI": 37.52,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1208,7 +1208,7 @@
         "Chart_Link": "https://www.tradingview.com/x/wFBAGZNK/",
         "Daily average volume in last 90 days": 509717.5873015873,
         "Daily average volume in last 365 days": 504233.008097166,
-        "RSI": 52.66,
+        "RSI": 58.65,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1352,7 +1352,7 @@
         "WK_52": 132.99,
         "CMP-52WKLow": 67.00999999999999,
         "PERCENT_CHANGE": 50.3872471614407,
-        "SMA_22": 212.31142857142856,
+        "SMA_22": 211.42952380952383,
         "S1": 201.6,
         "S2": 180.46,
         "S3": 158.5,
@@ -1449,7 +1449,7 @@
         "R3": 91.41,
         "Chart_Link": "https://www.tradingview.com/x/6JX6AR5v/",
         "Daily average volume in last 90 days": 232955.88888888888,
-        "Daily average volume in last 365 days": 245416.79375,
+        "Daily average volume in last 365 days": 244611.4596273292,
         "RSI": 41.37,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
