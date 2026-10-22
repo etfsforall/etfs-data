@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-22T10:14:58Z",
+  "last_updated": "2026-10-22T11:08:52Z",
   "data": {
-    "last_updated": "2026-10-22T10:14:57.719Z",
+    "last_updated": "2026-10-22T11:08:51.846Z",
     "data": [
       {
         "ETF_NSE_Code": "NSE:MOM30IETF",
@@ -230,7 +230,7 @@
         "WK_52": 51.91,
         "CMP-52WKLow": 4.07,
         "PERCENT_CHANGE": 7.84049316124061,
-        "SMA_22": 55.899047619047614,
+        "SMA_22": 55.82761904761905,
         "S1": 52.3,
         "S2": 49.51,
         "S3": 43.17,
@@ -240,7 +240,7 @@
         "Chart_Link": "https://www.tradingview.com/x/X0bVz4Wc/",
         "Daily average volume in last 90 days": 15739.95081967213,
         "Daily average volume in last 365 days": 17617.88163265306,
-        "RSI": 45.51,
+        "RSI": 44.97,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -710,10 +710,10 @@
       {
         "ETF_NSE_Code": "NSE:DIVOPPBEES",
         "ETF_NAME": "Nifty Dividend Opportunities 50 TRI",
-        "CMP": 73.6,
+        "CMP": 73.36,
         "WK_52": 70.43,
-        "CMP-52WKLow": 3.1699999999999875,
-        "PERCENT_CHANGE": 4.500922902172351,
+        "CMP-52WKLow": 2.9299999999999926,
+        "PERCENT_CHANGE": 4.160159023143536,
         "SMA_22": 73.13809523809523,
         "S1": 74.39,
         "S2": 70.87,
