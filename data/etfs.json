@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-28T10:02:47Z",
+  "last_updated": "2026-10-28T10:43:06Z",
   "data": {
-    "last_updated": "2026-10-28T10:02:47.164Z",
+    "last_updated": "2026-10-28T10:43:04.929Z",
     "data": [
       {
         "ETF_NSE_Code": "NSE:MOM30IETF",
@@ -1304,10 +1304,10 @@
       {
         "ETF_NSE_Code": "NSE:ICICIB22",
         "ETF_NAME": "S&P BSE BHARAT 22 index",
-        "CMP": 107.39,
+        "CMP": 106.1,
         "WK_52": 104.35,
-        "CMP-52WKLow": 3.0400000000000063,
-        "PERCENT_CHANGE": 2.913272640153336,
+        "CMP-52WKLow": 1.75,
+        "PERCENT_CHANGE": 1.6770483948251078,
         "SMA_22": 108.31380952380952,
         "S1": 112.44,
         "S2": 108.58,
@@ -1348,10 +1348,10 @@
       {
         "ETF_NSE_Code": "NSE:SILVERBEES",
         "ETF_NAME": "Domestic price of Silver- based on LBMA Silver daily spot fixing price",
-        "CMP": 183.33,
+        "CMP": 183.35,
         "WK_52": 132.99,
-        "CMP-52WKLow": 50.34,
-        "PERCENT_CHANGE": 37.852470110534625,
+        "CMP-52WKLow": 50.359999999999985,
+        "PERCENT_CHANGE": 37.86750883525075,
         "SMA_22": 202.50714285714284,
         "S1": 201.6,
         "S2": 180.46,
