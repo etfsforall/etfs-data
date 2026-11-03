@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-03T15:22:43Z",
+  "last_updated": "2026-11-03T16:12:29Z",
   "data": {
-    "last_updated": "2026-11-03T15:22:42.565Z",
+    "last_updated": "2026-11-03T16:12:28.509Z",
     "data": [
       {
         "ETF_NSE_Code": "NSE:MOM30IETF",
@@ -1360,8 +1360,8 @@
         "R2": 243.88,
         "R3": 267.47,
         "Chart_Link": "https://www.tradingview.com/x/loeQADzT/",
-        "Daily average volume in last 90 days": 21912855.129032258,
-        "Daily average volume in last 365 days": 51545857.692307696,
+        "Daily average volume in last 90 days": 21912853.51612903,
+        "Daily average volume in last 365 days": 51545857.28744939,
         "RSI": 16.65,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
