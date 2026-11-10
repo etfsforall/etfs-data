@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-11-09T20:05:37Z",
+  "last_updated": "2026-11-10T10:15:39Z",
   "data": {
-    "last_updated": "2026-11-09T20:05:37.132Z",
+    "last_updated": "2026-11-10T10:15:38.602Z",
     "data": [
       {
         "ETF_NSE_Code": "NSE:MOM30IETF",
@@ -20,7 +20,7 @@
         "Chart_Link": "https://www.tradingview.com/x/mjfVmhGm/",
         "Daily average volume in last 90 days": 698428.3114754099,
         "Daily average volume in last 365 days": 1578417.6437246962,
-        "RSI": 60.92,
+        "RSI": 57.33,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -42,7 +42,7 @@
         "Chart_Link": "https://www.tradingview.com/x/i6GhuJp3/",
         "Daily average volume in last 90 days": 44359.065573770495,
         "Daily average volume in last 365 days": 66205.42510121457,
-        "RSI": 67.48,
+        "RSI": 64.58,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -64,7 +64,7 @@
         "Chart_Link": "https://www.tradingview.com/x/BYsljU9x/",
         "Daily average volume in last 90 days": 245467.1475409836,
         "Daily average volume in last 365 days": 422257.3765182186,
-        "RSI": 70.57,
+        "RSI": 69.45,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -86,7 +86,7 @@
         "Chart_Link": "https://www.tradingview.com/x/c78qxOeG/",
         "Daily average volume in last 90 days": 117574.85245901639,
         "Daily average volume in last 365 days": 389035.1012145749,
-        "RSI": 63.63,
+        "RSI": 61.77,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -108,7 +108,7 @@
         "Chart_Link": "https://www.tradingview.com/x/ppDAAUZp/",
         "Daily average volume in last 90 days": 786253.8524590164,
         "Daily average volume in last 365 days": 1536391.4777327934,
-        "RSI": 58.75,
+        "RSI": 58.27,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -130,7 +130,7 @@
         "Chart_Link": "https://www.tradingview.com/x/u2yS329C/",
         "Daily average volume in last 90 days": 25552934.95081967,
         "Daily average volume in last 365 days": 43519576.45344129,
-        "RSI": 44.97,
+        "RSI": 44.65,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -152,7 +152,7 @@
         "Chart_Link": "https://www.tradingview.com/x/jOebsxw9/",
         "Daily average volume in last 90 days": 80561.0655737705,
         "Daily average volume in last 365 days": 137740.5991902834,
-        "RSI": 53.9,
+        "RSI": 52.32,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -174,7 +174,7 @@
         "Chart_Link": "https://www.tradingview.com/x/utrg1vV9/",
         "Daily average volume in last 90 days": 685012.3770491803,
         "Daily average volume in last 365 days": 765487.8623481782,
-        "RSI": 55.06,
+        "RSI": 52.91,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -196,7 +196,7 @@
         "Chart_Link": "https://www.tradingview.com/x/wIjnIzHV/",
         "Daily average volume in last 90 days": 28565.09836065574,
         "Daily average volume in last 365 days": 24257.781376518218,
-        "RSI": 83.27,
+        "RSI": 83.42,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -218,7 +218,7 @@
         "Chart_Link": "https://www.tradingview.com/x/i5RMCfGJ/",
         "Daily average volume in last 90 days": 2290411.7540983604,
         "Daily average volume in last 365 days": 2213116.711382114,
-        "RSI": 76.61,
+        "RSI": 75.04,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -240,7 +240,7 @@
         "Chart_Link": "https://www.tradingview.com/x/X0bVz4Wc/",
         "Daily average volume in last 90 days": 14382.688524590163,
         "Daily average volume in last 365 days": 17565.206477732794,
-        "RSI": 71.88,
+        "RSI": 70.31,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -262,7 +262,7 @@
         "Chart_Link": "https://www.tradingview.com/x/ZEohPTQk/",
         "Daily average volume in last 90 days": 235800.67213114753,
         "Daily average volume in last 365 days": 265242.2186234818,
-        "RSI": 72.81,
+        "RSI": 70.38,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -284,7 +284,7 @@
         "Chart_Link": "https://www.tradingview.com/x/oFxr0YV2/",
         "Daily average volume in last 90 days": 93863.45901639345,
         "Daily average volume in last 365 days": 126579.5,
-        "RSI": 67.97,
+        "RSI": 66.53,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -306,7 +306,7 @@
         "Chart_Link": "https://www.tradingview.com/x/DGvR7YPw/",
         "Daily average volume in last 90 days": 313217.08196721313,
         "Daily average volume in last 365 days": 668801.2348178137,
-        "RSI": 69.05,
+        "RSI": 67.07,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -328,7 +328,7 @@
         "Chart_Link": "https://www.tradingview.com/x/jTVEoY84/",
         "Daily average volume in last 90 days": 404213.0655737705,
         "Daily average volume in last 365 days": 272473.05263157893,
-        "RSI": 71.86,
+        "RSI": 70.5,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -350,7 +350,7 @@
         "Chart_Link": "https://www.tradingview.com/x/SEW8KcB1/",
         "Daily average volume in last 90 days": 67133.11475409837,
         "Daily average volume in last 365 days": 92006.73279352227,
-        "RSI": 59.21,
+        "RSI": 55.71,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -372,7 +372,7 @@
         "Chart_Link": "https://www.tradingview.com/x/DNPkfUm9/",
         "Daily average volume in last 90 days": 596317.3114754099,
         "Daily average volume in last 365 days": 585170.987854251,
-        "RSI": 63.97,
+        "RSI": 60.62,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -394,7 +394,7 @@
         "Chart_Link": "https://www.tradingview.com/x/P0WUHpmI/",
         "Daily average volume in last 90 days": 308324.0327868852,
         "Daily average volume in last 365 days": 370274.36437246966,
-        "RSI": 62.09,
+        "RSI": 59.1,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -416,7 +416,7 @@
         "Chart_Link": "https://www.tradingview.com/x/irLZv6F7/",
         "Daily average volume in last 90 days": 1721199.7704918033,
         "Daily average volume in last 365 days": 2258732.4251012146,
-        "RSI": 55.14,
+        "RSI": 52,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -438,7 +438,7 @@
         "Chart_Link": "https://www.tradingview.com/x/5H32A7EI/",
         "Daily average volume in last 90 days": 717890.2131147541,
         "Daily average volume in last 365 days": 972488.7368421053,
-        "RSI": 71.99,
+        "RSI": 69.91,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -460,7 +460,7 @@
         "Chart_Link": "https://www.tradingview.com/x/KlRLXOSZ/",
         "Daily average volume in last 90 days": 695578.0491803279,
         "Daily average volume in last 365 days": 867552.2348178137,
-        "RSI": 67.28,
+        "RSI": 66.16,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -482,7 +482,7 @@
         "Chart_Link": "https://www.tradingview.com/x/wrlO6Esx/",
         "Daily average volume in last 90 days": 1420805.737704918,
         "Daily average volume in last 365 days": 1906602.4008097167,
-        "RSI": 53.43,
+        "RSI": 50.36,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -504,7 +504,7 @@
         "Chart_Link": "https://www.tradingview.com/x/DvlC07GR/",
         "Daily average volume in last 90 days": 59144.86885245902,
         "Daily average volume in last 365 days": 128728.41295546558,
-        "RSI": 70.6,
+        "RSI": 69.74,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -526,7 +526,7 @@
         "Chart_Link": "https://www.tradingview.com/x/W9OxAB8f/",
         "Daily average volume in last 90 days": 907451.0655737704,
         "Daily average volume in last 365 days": 300275.88259109313,
-        "RSI": 58.6,
+        "RSI": 54.43,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -548,7 +548,7 @@
         "Chart_Link": "https://www.tradingview.com/x/rRfTASkg/",
         "Daily average volume in last 90 days": 808561.606557377,
         "Daily average volume in last 365 days": 860338.1295546559,
-        "RSI": 44.47,
+        "RSI": 41.84,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -570,7 +570,7 @@
         "Chart_Link": "https://www.tradingview.com/x/bzZaTF4A/",
         "Daily average volume in last 90 days": 993485.344262295,
         "Daily average volume in last 365 days": 1123881.9190283401,
-        "RSI": 77.39,
+        "RSI": 75.69,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -592,7 +592,7 @@
         "Chart_Link": "https://www.tradingview.com/x/GqXQ2OzF/",
         "Daily average volume in last 90 days": 7385436.75409836,
         "Daily average volume in last 365 days": 8096690.52631579,
-        "RSI": 79.28,
+        "RSI": 77.94,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -614,7 +614,7 @@
         "Chart_Link": "https://www.tradingview.com/x/S99aCFqR/",
         "Daily average volume in last 90 days": 614461.7704918033,
         "Daily average volume in last 365 days": 651966.6882591093,
-        "RSI": 55.91,
+        "RSI": 51.94,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -636,7 +636,7 @@
         "Chart_Link": "https://www.tradingview.com/x/MDUW65lN/",
         "Daily average volume in last 90 days": 1302735.6065573771,
         "Daily average volume in last 365 days": 1368059.6275303643,
-        "RSI": 46.72,
+        "RSI": 42,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -658,7 +658,7 @@
         "Chart_Link": "https://www.tradingview.com/x/LEfNtJKB/",
         "Daily average volume in last 90 days": 579924.7704918033,
         "Daily average volume in last 365 days": 1018071.6923076923,
-        "RSI": 73.28,
+        "RSI": 71.57,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -680,7 +680,7 @@
         "Chart_Link": "https://www.tradingview.com/x/QbCGHIjk/",
         "Daily average volume in last 90 days": 670132.9672131147,
         "Daily average volume in last 365 days": 827511.052631579,
-        "RSI": 73.13,
+        "RSI": 71.81,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -702,7 +702,7 @@
         "Chart_Link": "https://www.tradingview.com/x/ifdWB6U6/",
         "Daily average volume in last 90 days": 645933.0819672131,
         "Daily average volume in last 365 days": 883123.983805668,
-        "RSI": 78.05,
+        "RSI": 76.72,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -724,7 +724,7 @@
         "Chart_Link": "https://www.tradingview.com/x/5Ee4SCOm/",
         "Daily average volume in last 90 days": 49308.75409836065,
         "Daily average volume in last 365 days": 64720.63562753036,
-        "RSI": 75.94,
+        "RSI": 75.51,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -746,7 +746,7 @@
         "Chart_Link": "https://www.tradingview.com/x/P9vaiMpL/",
         "Daily average volume in last 90 days": 215641.24590163934,
         "Daily average volume in last 365 days": 261539.21862348178,
-        "RSI": 66.46,
+        "RSI": 64.77,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -768,7 +768,7 @@
         "Chart_Link": "https://www.tradingview.com/x/LIFBc8jd/",
         "Daily average volume in last 90 days": 324621.68852459016,
         "Daily average volume in last 365 days": 491732.6234817814,
-        "RSI": 77.81,
+        "RSI": 76.2,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -790,7 +790,7 @@
         "Chart_Link": "https://www.tradingview.com/x/E3BUzNfh/",
         "Daily average volume in last 90 days": 1693887.0327868853,
         "Daily average volume in last 365 days": 1633274.1463414633,
-        "RSI": 62.84,
+        "RSI": 60.18,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -812,7 +812,7 @@
         "Chart_Link": "https://www.tradingview.com/x/JLfFUxIL/",
         "Daily average volume in last 90 days": 626064.4590163934,
         "Daily average volume in last 365 days": 513022.3967611336,
-        "RSI": 74.66,
+        "RSI": 72.73,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -834,7 +834,7 @@
         "Chart_Link": "https://www.tradingview.com/x/XAD7Pkg2/",
         "Daily average volume in last 90 days": 61474.57377049181,
         "Daily average volume in last 365 days": 79678.51821862349,
-        "RSI": 71.52,
+        "RSI": 68.71,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -856,7 +856,7 @@
         "Chart_Link": "https://www.tradingview.com/x/9EjSjfrU/",
         "Daily average volume in last 90 days": 81388.04918032787,
         "Daily average volume in last 365 days": 112270.73279352227,
-        "RSI": 73.62,
+        "RSI": 71.64,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -878,7 +878,7 @@
         "Chart_Link": "https://www.tradingview.com/x/gD8DSgW3/",
         "Daily average volume in last 90 days": 1459828.2950819673,
         "Daily average volume in last 365 days": 2764777.4615384615,
-        "RSI": 50.01,
+        "RSI": 46.97,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -900,7 +900,7 @@
         "Chart_Link": "https://www.tradingview.com/x/VPXbf6Sh/",
         "Daily average volume in last 90 days": 112460.3606557377,
         "Daily average volume in last 365 days": 94370.36842105263,
-        "RSI": 62.27,
+        "RSI": 61.33,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -922,7 +922,7 @@
         "Chart_Link": "https://www.tradingview.com/x/A60zFaxa/",
         "Daily average volume in last 90 days": 38340.03278688525,
         "Daily average volume in last 365 days": 51423.57894736842,
-        "RSI": 67.34,
+        "RSI": 64.61,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -944,7 +944,7 @@
         "Chart_Link": "https://www.tradingview.com/x/zOBqiQyG/",
         "Daily average volume in last 90 days": 12942902.50819672,
         "Daily average volume in last 365 days": 17536395.207317073,
-        "RSI": 65.02,
+        "RSI": 66.32,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -966,7 +966,7 @@
         "Chart_Link": "https://www.tradingview.com/x/6MXAxv0p/",
         "Daily average volume in last 90 days": 7126997.819672131,
         "Daily average volume in last 365 days": 14191901.16194332,
-        "RSI": 60.72,
+        "RSI": 58.75,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -988,7 +988,7 @@
         "Chart_Link": "https://www.tradingview.com/x/mcTnxuPK/",
         "Daily average volume in last 90 days": 347110.2786885246,
         "Daily average volume in last 365 days": 507937.25910931174,
-        "RSI": 62.2,
+        "RSI": 59.22,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1010,7 +1010,7 @@
         "Chart_Link": "https://www.tradingview.com/x/R8iArwIn/",
         "Daily average volume in last 90 days": 2761748.770491803,
         "Daily average volume in last 365 days": 3306341.3441295545,
-        "RSI": 62.47,
+        "RSI": 60.14,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1032,7 +1032,7 @@
         "Chart_Link": "https://www.tradingview.com/x/zJQDHttP/",
         "Daily average volume in last 90 days": 443829.8360655738,
         "Daily average volume in last 365 days": 398276.32793522265,
-        "RSI": 62.27,
+        "RSI": 60.51,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1054,7 +1054,7 @@
         "Chart_Link": "https://www.tradingview.com/x/RRZqYbWD/",
         "Daily average volume in last 90 days": 812884.0983606557,
         "Daily average volume in last 365 days": 984411.0890688259,
-        "RSI": 66.27,
+        "RSI": 63.74,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1076,7 +1076,7 @@
         "Chart_Link": "https://www.tradingview.com/x/DYbgOnxC/",
         "Daily average volume in last 90 days": 1751530.6065573771,
         "Daily average volume in last 365 days": 3138445.5587044535,
-        "RSI": 71.82,
+        "RSI": 69.73,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1098,7 +1098,7 @@
         "Chart_Link": "https://www.tradingview.com/x/LEzGsyGP/",
         "Daily average volume in last 90 days": 4570103.770491803,
         "Daily average volume in last 365 days": 5971581.340080972,
-        "RSI": 78.08,
+        "RSI": 75.82,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1120,7 +1120,7 @@
         "Chart_Link": "https://www.tradingview.com/x/hhvI0XFj/",
         "Daily average volume in last 90 days": 3360881.4918032787,
         "Daily average volume in last 365 days": 3966401.1417004047,
-        "RSI": 76.83,
+        "RSI": 75.17,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1142,7 +1142,7 @@
         "Chart_Link": "https://www.tradingview.com/x/3qWJrp6r/",
         "Daily average volume in last 90 days": 1684414.0983606558,
         "Daily average volume in last 365 days": 3151975.6437246962,
-        "RSI": 74.43,
+        "RSI": 74.36,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1164,7 +1164,7 @@
         "Chart_Link": "https://www.tradingview.com/x/yRJb4IMC/",
         "Daily average volume in last 90 days": 303907.40983606555,
         "Daily average volume in last 365 days": 514477.65991902835,
-        "RSI": 78.68,
+        "RSI": 77.31,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1186,7 +1186,7 @@
         "Chart_Link": "https://www.tradingview.com/x/iofbKQsH/",
         "Daily average volume in last 90 days": 19346.344262295082,
         "Daily average volume in last 365 days": 29543.85829959514,
-        "RSI": 78.36,
+        "RSI": 76.89,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1208,7 +1208,7 @@
         "Chart_Link": "https://www.tradingview.com/x/wFBAGZNK/",
         "Daily average volume in last 90 days": 523969.7868852459,
         "Daily average volume in last 365 days": 504930.6396761134,
-        "RSI": 78.39,
+        "RSI": 77.4,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1230,7 +1230,7 @@
         "Chart_Link": "https://www.tradingview.com/x/I0RYaPhj/",
         "Daily average volume in last 90 days": 296878.40983606555,
         "Daily average volume in last 365 days": 324217.34412955464,
-        "RSI": 68.98,
+        "RSI": 66.39,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1252,7 +1252,7 @@
         "Chart_Link": "https://www.tradingview.com/x/e5wPRE4V/",
         "Daily average volume in last 90 days": 28531.44262295082,
         "Daily average volume in last 365 days": 51946.05263157895,
-        "RSI": 55.58,
+        "RSI": 52.37,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1274,7 +1274,7 @@
         "Chart_Link": "https://www.tradingview.com/x/pwXFA7a7/",
         "Daily average volume in last 90 days": 837116.524590164,
         "Daily average volume in last 365 days": 439217.2995951417,
-        "RSI": 46.03,
+        "RSI": 42.12,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1296,7 +1296,7 @@
         "Chart_Link": "https://www.tradingview.com/x/h8VrK5Xa/",
         "Daily average volume in last 90 days": 1025314.9016393443,
         "Daily average volume in last 365 days": 412846.06477732793,
-        "RSI": 42.47,
+        "RSI": 39.03,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1318,7 +1318,7 @@
         "Chart_Link": "https://www.tradingview.com/x/gEGfHZy8/",
         "Daily average volume in last 90 days": 419820.24590163934,
         "Daily average volume in last 365 days": 522237.69918699184,
-        "RSI": 69.97,
+        "RSI": 68.69,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1340,7 +1340,7 @@
         "Chart_Link": "https://www.tradingview.com/x/SLMQDLst/",
         "Daily average volume in last 90 days": 240587.5737704918,
         "Daily average volume in last 365 days": 288466.96761133603,
-        "RSI": 63.51,
+        "RSI": 60.97,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1362,7 +1362,7 @@
         "Chart_Link": "https://www.tradingview.com/x/loeQADzT/",
         "Daily average volume in last 90 days": 21554159.672131147,
         "Daily average volume in last 365 days": 51761853.24696356,
-        "RSI": 32.06,
+        "RSI": 31.98,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1384,7 +1384,7 @@
         "Chart_Link": "https://www.tradingview.com/x/VXXvq73U/",
         "Daily average volume in last 90 days": 20794.67213114754,
         "Daily average volume in last 365 days": 25370.78947368421,
-        "RSI": 82.9,
+        "RSI": 81.79,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1406,7 +1406,7 @@
         "Chart_Link": "https://www.tradingview.com/x/OkGk27V2/",
         "Daily average volume in last 90 days": 407722.9016393443,
         "Daily average volume in last 365 days": 492589.0125,
-        "RSI": 54.47,
+        "RSI": 48.97,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1428,7 +1428,7 @@
         "Chart_Link": "https://www.tradingview.com/x/2IWjDN62/",
         "Daily average volume in last 90 days": 147660.83606557376,
         "Daily average volume in last 365 days": 129714.4858299595,
-        "RSI": 75.3,
+        "RSI": 73.41,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1450,7 +1450,7 @@
         "Chart_Link": "https://www.tradingview.com/x/6JX6AR5v/",
         "Daily average volume in last 90 days": 245790.04918032786,
         "Daily average volume in last 365 days": 241320.38068181818,
-        "RSI": 56.29,
+        "RSI": 53.16,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1472,7 +1472,7 @@
         "Chart_Link": "https://www.tradingview.com/x/YdoCNCgN/",
         "Daily average volume in last 90 days": 829624.4426229508,
         "Daily average volume in last 365 days": 763521.7692307692,
-        "RSI": 62.43,
+        "RSI": 61.72,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1494,7 +1494,7 @@
         "Chart_Link": "https://www.tradingview.com/x/T0sRnSK5/",
         "Daily average volume in last 90 days": 1010478.7868852459,
         "Daily average volume in last 365 days": 1005012.08097166,
-        "RSI": 71.77,
+        "RSI": 68.96,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1516,7 +1516,7 @@
         "Chart_Link": "https://www.tradingview.com/x/VxuhHNY8/",
         "Daily average volume in last 90 days": 310626.0983606557,
         "Daily average volume in last 365 days": 771549.7008196721,
-        "RSI": 57.42,
+        "RSI": 55.14,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1538,7 +1538,7 @@
         "Chart_Link": "https://www.tradingview.com/x/ZlIZwgld/",
         "Daily average volume in last 90 days": 169659.131147541,
         "Daily average volume in last 365 days": 162235.5020242915,
-        "RSI": 66.68,
+        "RSI": 64.91,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
@@ -1560,7 +1560,7 @@
         "Chart_Link": null,
         "Daily average volume in last 90 days": 1025314.9016393443,
         "Daily average volume in last 365 days": 412846.06477732793,
-        "RSI": 42.47,
+        "RSI": 39.03,
         "Trend_Counter": 0,
         "Momentum_Signal": "⚪ Neutral",
         "Dynamic_Stop_Loss": "❌ Exit Triggered"
